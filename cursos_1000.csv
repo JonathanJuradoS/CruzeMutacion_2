@@ -1,0 +1,1001 @@
+curso_id,especialidad_curso,horas_curso,nivel_requerido_curso
+C0001,Bases de Datos,5,Maestria
+C0002,Programacion,5,Bachiller
+C0003,Programacion,4,Titulado
+C0004,Redes,4,Doctorado
+C0005,IA,2,Doctorado
+C0006,Bases de Datos,3,Maestria
+C0007,Programacion,2,Bachiller
+C0008,Seguridad,2,Maestria
+C0009,Ingenieria de Software,5,Bachiller
+C0010,IA,5,Maestria
+C0011,IA,2,Maestria
+C0012,Ingenieria de Software,5,Maestria
+C0013,Ingenieria de Software,4,Bachiller
+C0014,IA,5,Bachiller
+C0015,Redes,4,Titulado
+C0016,IA,5,Doctorado
+C0017,Seguridad,4,Titulado
+C0018,Ingenieria de Software,5,Maestria
+C0019,Redes,2,Maestria
+C0020,Ingenieria de Software,5,Doctorado
+C0021,IA,3,Maestria
+C0022,Seguridad,5,Maestria
+C0023,Bases de Datos,5,Bachiller
+C0024,Ingenieria de Software,4,Titulado
+C0025,Programacion,4,Maestria
+C0026,Seguridad,5,Titulado
+C0027,Ingenieria de Software,2,Titulado
+C0028,Ingenieria de Software,4,Doctorado
+C0029,Programacion,3,Doctorado
+C0030,Ingenieria de Software,3,Bachiller
+C0031,Bases de Datos,2,Titulado
+C0032,Seguridad,3,Doctorado
+C0033,Ingenieria de Software,5,Doctorado
+C0034,Programacion,2,Bachiller
+C0035,Programacion,2,Doctorado
+C0036,Seguridad,4,Bachiller
+C0037,Seguridad,4,Bachiller
+C0038,Seguridad,3,Titulado
+C0039,Seguridad,3,Maestria
+C0040,Redes,5,Bachiller
+C0041,Seguridad,4,Titulado
+C0042,Programacion,3,Bachiller
+C0043,Bases de Datos,4,Bachiller
+C0044,Ingenieria de Software,2,Bachiller
+C0045,Seguridad,4,Bachiller
+C0046,IA,3,Bachiller
+C0047,Bases de Datos,5,Titulado
+C0048,Ingenieria de Software,3,Titulado
+C0049,Programacion,3,Bachiller
+C0050,Bases de Datos,2,Titulado
+C0051,Seguridad,3,Maestria
+C0052,Bases de Datos,4,Titulado
+C0053,Seguridad,4,Doctorado
+C0054,Redes,4,Titulado
+C0055,IA,3,Maestria
+C0056,Programacion,2,Maestria
+C0057,Programacion,5,Doctorado
+C0058,Programacion,4,Titulado
+C0059,Redes,4,Doctorado
+C0060,Bases de Datos,3,Bachiller
+C0061,Ingenieria de Software,5,Doctorado
+C0062,Ingenieria de Software,3,Maestria
+C0063,Redes,4,Maestria
+C0064,Redes,4,Titulado
+C0065,Redes,2,Maestria
+C0066,Ingenieria de Software,3,Titulado
+C0067,IA,3,Maestria
+C0068,Ingenieria de Software,2,Maestria
+C0069,Programacion,5,Maestria
+C0070,Programacion,4,Maestria
+C0071,Redes,2,Doctorado
+C0072,Seguridad,5,Titulado
+C0073,Ingenieria de Software,2,Doctorado
+C0074,Programacion,5,Bachiller
+C0075,Seguridad,3,Titulado
+C0076,Redes,5,Maestria
+C0077,IA,5,Bachiller
+C0078,Ingenieria de Software,4,Doctorado
+C0079,Seguridad,4,Bachiller
+C0080,Bases de Datos,2,Bachiller
+C0081,Bases de Datos,2,Titulado
+C0082,IA,3,Doctorado
+C0083,Bases de Datos,2,Bachiller
+C0084,Ingenieria de Software,4,Bachiller
+C0085,Ingenieria de Software,4,Bachiller
+C0086,Programacion,5,Bachiller
+C0087,Seguridad,5,Maestria
+C0088,Ingenieria de Software,2,Doctorado
+C0089,Redes,2,Doctorado
+C0090,Bases de Datos,3,Bachiller
+C0091,Redes,4,Bachiller
+C0092,Bases de Datos,2,Bachiller
+C0093,Bases de Datos,2,Doctorado
+C0094,Ingenieria de Software,2,Maestria
+C0095,Redes,4,Titulado
+C0096,IA,4,Maestria
+C0097,Redes,5,Doctorado
+C0098,Redes,5,Bachiller
+C0099,Ingenieria de Software,5,Bachiller
+C0100,Seguridad,4,Doctorado
+C0101,IA,3,Bachiller
+C0102,IA,4,Maestria
+C0103,Seguridad,3,Doctorado
+C0104,Programacion,3,Doctorado
+C0105,Seguridad,5,Doctorado
+C0106,Seguridad,3,Maestria
+C0107,IA,2,Titulado
+C0108,Ingenieria de Software,4,Doctorado
+C0109,Bases de Datos,2,Doctorado
+C0110,IA,4,Titulado
+C0111,Ingenieria de Software,4,Doctorado
+C0112,Ingenieria de Software,2,Titulado
+C0113,Seguridad,5,Doctorado
+C0114,Programacion,5,Bachiller
+C0115,IA,4,Titulado
+C0116,Redes,2,Doctorado
+C0117,Bases de Datos,3,Titulado
+C0118,IA,4,Maestria
+C0119,Seguridad,3,Bachiller
+C0120,IA,3,Bachiller
+C0121,Ingenieria de Software,5,Titulado
+C0122,Ingenieria de Software,3,Titulado
+C0123,Redes,4,Titulado
+C0124,Redes,2,Doctorado
+C0125,Ingenieria de Software,2,Titulado
+C0126,Programacion,3,Maestria
+C0127,Ingenieria de Software,4,Maestria
+C0128,IA,2,Doctorado
+C0129,Bases de Datos,3,Titulado
+C0130,Ingenieria de Software,5,Titulado
+C0131,Seguridad,4,Doctorado
+C0132,IA,3,Doctorado
+C0133,Seguridad,2,Maestria
+C0134,IA,3,Bachiller
+C0135,Bases de Datos,5,Bachiller
+C0136,Redes,5,Titulado
+C0137,Seguridad,2,Titulado
+C0138,Seguridad,4,Doctorado
+C0139,IA,3,Bachiller
+C0140,Bases de Datos,5,Titulado
+C0141,Seguridad,4,Doctorado
+C0142,Seguridad,5,Maestria
+C0143,IA,2,Titulado
+C0144,IA,2,Maestria
+C0145,IA,2,Doctorado
+C0146,IA,2,Doctorado
+C0147,Seguridad,5,Bachiller
+C0148,Programacion,4,Titulado
+C0149,Bases de Datos,2,Maestria
+C0150,Bases de Datos,5,Doctorado
+C0151,Redes,5,Doctorado
+C0152,Ingenieria de Software,2,Bachiller
+C0153,Programacion,4,Bachiller
+C0154,Seguridad,5,Maestria
+C0155,Seguridad,2,Doctorado
+C0156,IA,5,Bachiller
+C0157,Ingenieria de Software,5,Doctorado
+C0158,Bases de Datos,4,Maestria
+C0159,Bases de Datos,2,Doctorado
+C0160,Seguridad,3,Doctorado
+C0161,IA,2,Maestria
+C0162,Redes,4,Titulado
+C0163,Bases de Datos,2,Doctorado
+C0164,Bases de Datos,3,Doctorado
+C0165,Programacion,4,Titulado
+C0166,Programacion,4,Maestria
+C0167,Ingenieria de Software,3,Bachiller
+C0168,Seguridad,2,Doctorado
+C0169,Seguridad,5,Doctorado
+C0170,Ingenieria de Software,4,Doctorado
+C0171,Seguridad,4,Titulado
+C0172,Programacion,3,Maestria
+C0173,Bases de Datos,2,Maestria
+C0174,Ingenieria de Software,3,Doctorado
+C0175,Bases de Datos,4,Titulado
+C0176,Programacion,2,Doctorado
+C0177,Ingenieria de Software,5,Doctorado
+C0178,Ingenieria de Software,3,Doctorado
+C0179,Programacion,4,Bachiller
+C0180,Bases de Datos,3,Titulado
+C0181,Seguridad,3,Bachiller
+C0182,IA,4,Bachiller
+C0183,Programacion,2,Bachiller
+C0184,IA,3,Bachiller
+C0185,Seguridad,2,Titulado
+C0186,Redes,3,Doctorado
+C0187,Seguridad,3,Maestria
+C0188,Seguridad,4,Bachiller
+C0189,Programacion,5,Doctorado
+C0190,Redes,5,Titulado
+C0191,Bases de Datos,5,Maestria
+C0192,Bases de Datos,5,Bachiller
+C0193,IA,3,Maestria
+C0194,Seguridad,3,Maestria
+C0195,Redes,5,Bachiller
+C0196,Programacion,3,Titulado
+C0197,Programacion,4,Bachiller
+C0198,Seguridad,4,Doctorado
+C0199,Programacion,2,Titulado
+C0200,IA,4,Titulado
+C0201,IA,5,Maestria
+C0202,IA,3,Maestria
+C0203,Ingenieria de Software,2,Doctorado
+C0204,Ingenieria de Software,3,Bachiller
+C0205,IA,5,Maestria
+C0206,Bases de Datos,3,Doctorado
+C0207,Seguridad,5,Titulado
+C0208,Programacion,4,Doctorado
+C0209,Ingenieria de Software,2,Bachiller
+C0210,Bases de Datos,2,Bachiller
+C0211,Seguridad,2,Maestria
+C0212,Programacion,4,Bachiller
+C0213,Bases de Datos,4,Bachiller
+C0214,Ingenieria de Software,4,Titulado
+C0215,Ingenieria de Software,2,Maestria
+C0216,IA,5,Doctorado
+C0217,Bases de Datos,3,Maestria
+C0218,IA,2,Titulado
+C0219,Bases de Datos,4,Doctorado
+C0220,Ingenieria de Software,3,Maestria
+C0221,Redes,3,Maestria
+C0222,Ingenieria de Software,2,Maestria
+C0223,Bases de Datos,4,Doctorado
+C0224,Bases de Datos,5,Bachiller
+C0225,Seguridad,4,Doctorado
+C0226,Ingenieria de Software,5,Maestria
+C0227,Seguridad,4,Titulado
+C0228,IA,3,Maestria
+C0229,Programacion,5,Titulado
+C0230,Redes,3,Doctorado
+C0231,Seguridad,4,Maestria
+C0232,Bases de Datos,3,Bachiller
+C0233,Programacion,2,Doctorado
+C0234,Ingenieria de Software,3,Doctorado
+C0235,Redes,3,Bachiller
+C0236,Redes,4,Titulado
+C0237,Ingenieria de Software,4,Titulado
+C0238,Ingenieria de Software,4,Doctorado
+C0239,Bases de Datos,2,Maestria
+C0240,Programacion,2,Doctorado
+C0241,Seguridad,4,Titulado
+C0242,IA,2,Doctorado
+C0243,Redes,5,Maestria
+C0244,Ingenieria de Software,5,Doctorado
+C0245,Redes,3,Titulado
+C0246,Seguridad,5,Maestria
+C0247,Ingenieria de Software,5,Titulado
+C0248,Seguridad,5,Maestria
+C0249,IA,5,Maestria
+C0250,IA,2,Titulado
+C0251,Programacion,3,Doctorado
+C0252,Bases de Datos,5,Doctorado
+C0253,Programacion,5,Bachiller
+C0254,Programacion,3,Titulado
+C0255,Seguridad,2,Bachiller
+C0256,Programacion,4,Titulado
+C0257,Redes,3,Maestria
+C0258,Bases de Datos,5,Maestria
+C0259,IA,2,Maestria
+C0260,Bases de Datos,5,Doctorado
+C0261,Bases de Datos,3,Titulado
+C0262,Redes,2,Doctorado
+C0263,Programacion,3,Doctorado
+C0264,Programacion,2,Doctorado
+C0265,Redes,4,Maestria
+C0266,Seguridad,3,Bachiller
+C0267,IA,2,Titulado
+C0268,Redes,5,Bachiller
+C0269,Seguridad,3,Maestria
+C0270,Seguridad,4,Bachiller
+C0271,Programacion,5,Titulado
+C0272,Seguridad,4,Maestria
+C0273,Seguridad,3,Doctorado
+C0274,Ingenieria de Software,4,Bachiller
+C0275,Bases de Datos,2,Bachiller
+C0276,Bases de Datos,4,Doctorado
+C0277,Redes,4,Titulado
+C0278,Bases de Datos,5,Titulado
+C0279,Redes,2,Bachiller
+C0280,Bases de Datos,5,Maestria
+C0281,Programacion,3,Bachiller
+C0282,Ingenieria de Software,4,Titulado
+C0283,IA,5,Titulado
+C0284,Programacion,5,Bachiller
+C0285,Seguridad,4,Maestria
+C0286,Programacion,2,Maestria
+C0287,Redes,2,Bachiller
+C0288,IA,5,Maestria
+C0289,Seguridad,3,Doctorado
+C0290,Programacion,4,Doctorado
+C0291,Redes,2,Bachiller
+C0292,Bases de Datos,3,Bachiller
+C0293,Seguridad,3,Maestria
+C0294,Ingenieria de Software,3,Doctorado
+C0295,Seguridad,4,Titulado
+C0296,Bases de Datos,4,Doctorado
+C0297,Redes,2,Bachiller
+C0298,Bases de Datos,3,Titulado
+C0299,IA,3,Bachiller
+C0300,Redes,4,Bachiller
+C0301,Bases de Datos,4,Maestria
+C0302,Programacion,4,Doctorado
+C0303,Redes,3,Maestria
+C0304,Redes,3,Bachiller
+C0305,Seguridad,4,Maestria
+C0306,Seguridad,2,Bachiller
+C0307,IA,2,Titulado
+C0308,Ingenieria de Software,2,Maestria
+C0309,IA,4,Bachiller
+C0310,Programacion,2,Bachiller
+C0311,Seguridad,5,Doctorado
+C0312,Seguridad,3,Titulado
+C0313,Seguridad,5,Doctorado
+C0314,Ingenieria de Software,4,Titulado
+C0315,Programacion,3,Doctorado
+C0316,Redes,4,Titulado
+C0317,Seguridad,4,Doctorado
+C0318,IA,3,Doctorado
+C0319,Seguridad,3,Bachiller
+C0320,Ingenieria de Software,2,Doctorado
+C0321,Bases de Datos,5,Titulado
+C0322,Redes,4,Titulado
+C0323,Ingenieria de Software,5,Doctorado
+C0324,Programacion,3,Titulado
+C0325,Bases de Datos,4,Titulado
+C0326,Ingenieria de Software,3,Doctorado
+C0327,Seguridad,5,Titulado
+C0328,IA,2,Titulado
+C0329,Seguridad,4,Titulado
+C0330,Bases de Datos,2,Bachiller
+C0331,Bases de Datos,4,Titulado
+C0332,Seguridad,4,Bachiller
+C0333,IA,4,Doctorado
+C0334,Ingenieria de Software,3,Titulado
+C0335,Seguridad,5,Bachiller
+C0336,Ingenieria de Software,2,Maestria
+C0337,Programacion,3,Titulado
+C0338,Seguridad,2,Maestria
+C0339,IA,5,Titulado
+C0340,Bases de Datos,5,Titulado
+C0341,Programacion,3,Bachiller
+C0342,Ingenieria de Software,3,Doctorado
+C0343,IA,4,Maestria
+C0344,IA,2,Titulado
+C0345,Redes,2,Titulado
+C0346,Ingenieria de Software,5,Titulado
+C0347,Programacion,3,Maestria
+C0348,Redes,2,Bachiller
+C0349,Redes,4,Bachiller
+C0350,Bases de Datos,2,Maestria
+C0351,Redes,2,Bachiller
+C0352,Ingenieria de Software,4,Titulado
+C0353,Bases de Datos,2,Titulado
+C0354,Bases de Datos,5,Bachiller
+C0355,Bases de Datos,3,Maestria
+C0356,Seguridad,5,Doctorado
+C0357,Redes,5,Doctorado
+C0358,IA,5,Titulado
+C0359,Bases de Datos,3,Doctorado
+C0360,Programacion,5,Doctorado
+C0361,Programacion,3,Bachiller
+C0362,IA,2,Doctorado
+C0363,IA,3,Maestria
+C0364,Programacion,2,Doctorado
+C0365,Ingenieria de Software,3,Doctorado
+C0366,Redes,4,Titulado
+C0367,IA,3,Doctorado
+C0368,Programacion,4,Titulado
+C0369,Programacion,4,Bachiller
+C0370,Programacion,3,Maestria
+C0371,Redes,3,Titulado
+C0372,Redes,3,Maestria
+C0373,Redes,4,Doctorado
+C0374,Programacion,5,Doctorado
+C0375,Bases de Datos,5,Titulado
+C0376,Redes,2,Maestria
+C0377,IA,3,Maestria
+C0378,Bases de Datos,5,Doctorado
+C0379,IA,2,Bachiller
+C0380,Redes,5,Titulado
+C0381,Programacion,2,Titulado
+C0382,Bases de Datos,5,Bachiller
+C0383,Ingenieria de Software,5,Bachiller
+C0384,Seguridad,4,Doctorado
+C0385,Ingenieria de Software,2,Bachiller
+C0386,Ingenieria de Software,2,Doctorado
+C0387,Bases de Datos,4,Doctorado
+C0388,Programacion,3,Bachiller
+C0389,Redes,2,Doctorado
+C0390,Redes,5,Bachiller
+C0391,IA,4,Bachiller
+C0392,Ingenieria de Software,2,Doctorado
+C0393,Programacion,3,Titulado
+C0394,Seguridad,2,Doctorado
+C0395,IA,3,Maestria
+C0396,Redes,3,Titulado
+C0397,Seguridad,2,Doctorado
+C0398,Seguridad,2,Maestria
+C0399,Ingenieria de Software,5,Maestria
+C0400,Programacion,4,Maestria
+C0401,Seguridad,2,Bachiller
+C0402,IA,5,Bachiller
+C0403,Redes,3,Maestria
+C0404,IA,2,Maestria
+C0405,IA,3,Titulado
+C0406,Bases de Datos,5,Titulado
+C0407,Bases de Datos,2,Maestria
+C0408,Programacion,5,Bachiller
+C0409,IA,3,Maestria
+C0410,Programacion,5,Maestria
+C0411,Ingenieria de Software,2,Maestria
+C0412,Programacion,5,Doctorado
+C0413,Bases de Datos,2,Maestria
+C0414,IA,5,Maestria
+C0415,Seguridad,5,Bachiller
+C0416,Seguridad,5,Bachiller
+C0417,Programacion,5,Doctorado
+C0418,Bases de Datos,3,Doctorado
+C0419,Bases de Datos,4,Doctorado
+C0420,IA,5,Doctorado
+C0421,Bases de Datos,2,Maestria
+C0422,Seguridad,3,Maestria
+C0423,Seguridad,3,Titulado
+C0424,Ingenieria de Software,5,Bachiller
+C0425,Bases de Datos,4,Bachiller
+C0426,Ingenieria de Software,4,Titulado
+C0427,Bases de Datos,3,Maestria
+C0428,IA,5,Titulado
+C0429,Seguridad,3,Maestria
+C0430,Seguridad,5,Bachiller
+C0431,IA,2,Doctorado
+C0432,IA,4,Bachiller
+C0433,Programacion,5,Bachiller
+C0434,Bases de Datos,2,Bachiller
+C0435,Redes,2,Doctorado
+C0436,Bases de Datos,4,Maestria
+C0437,Seguridad,2,Bachiller
+C0438,Redes,3,Bachiller
+C0439,IA,2,Maestria
+C0440,IA,3,Bachiller
+C0441,Ingenieria de Software,3,Bachiller
+C0442,Ingenieria de Software,4,Maestria
+C0443,Redes,4,Doctorado
+C0444,Bases de Datos,3,Doctorado
+C0445,Redes,5,Maestria
+C0446,Seguridad,4,Titulado
+C0447,IA,2,Bachiller
+C0448,Programacion,4,Maestria
+C0449,Bases de Datos,2,Titulado
+C0450,Seguridad,3,Titulado
+C0451,Ingenieria de Software,3,Titulado
+C0452,Redes,5,Maestria
+C0453,Redes,2,Doctorado
+C0454,Programacion,2,Titulado
+C0455,IA,3,Titulado
+C0456,Redes,2,Titulado
+C0457,Redes,5,Maestria
+C0458,Programacion,2,Maestria
+C0459,Programacion,3,Doctorado
+C0460,Ingenieria de Software,4,Titulado
+C0461,Programacion,3,Bachiller
+C0462,Bases de Datos,5,Titulado
+C0463,Bases de Datos,2,Titulado
+C0464,Seguridad,5,Titulado
+C0465,Ingenieria de Software,4,Titulado
+C0466,Redes,2,Bachiller
+C0467,Bases de Datos,3,Doctorado
+C0468,Bases de Datos,3,Bachiller
+C0469,Redes,4,Bachiller
+C0470,Seguridad,2,Bachiller
+C0471,Seguridad,2,Titulado
+C0472,Ingenieria de Software,4,Maestria
+C0473,Seguridad,4,Maestria
+C0474,Redes,3,Bachiller
+C0475,Bases de Datos,4,Maestria
+C0476,Bases de Datos,2,Titulado
+C0477,Bases de Datos,5,Doctorado
+C0478,Redes,3,Titulado
+C0479,Redes,2,Maestria
+C0480,Ingenieria de Software,4,Maestria
+C0481,Programacion,3,Doctorado
+C0482,Bases de Datos,3,Maestria
+C0483,Seguridad,5,Doctorado
+C0484,Seguridad,4,Maestria
+C0485,Ingenieria de Software,5,Doctorado
+C0486,Bases de Datos,3,Bachiller
+C0487,Bases de Datos,3,Doctorado
+C0488,Ingenieria de Software,2,Doctorado
+C0489,Bases de Datos,4,Doctorado
+C0490,Seguridad,5,Bachiller
+C0491,Seguridad,4,Bachiller
+C0492,Bases de Datos,3,Titulado
+C0493,Seguridad,2,Titulado
+C0494,Programacion,5,Bachiller
+C0495,Seguridad,4,Titulado
+C0496,Seguridad,3,Bachiller
+C0497,Seguridad,2,Titulado
+C0498,IA,4,Titulado
+C0499,Seguridad,2,Bachiller
+C0500,Ingenieria de Software,2,Doctorado
+C0501,Seguridad,5,Bachiller
+C0502,Redes,5,Maestria
+C0503,Redes,4,Titulado
+C0504,Programacion,2,Titulado
+C0505,Redes,3,Maestria
+C0506,Redes,4,Doctorado
+C0507,Seguridad,5,Bachiller
+C0508,Seguridad,3,Bachiller
+C0509,Bases de Datos,3,Doctorado
+C0510,Redes,4,Maestria
+C0511,Redes,5,Bachiller
+C0512,Seguridad,4,Bachiller
+C0513,Seguridad,2,Doctorado
+C0514,Programacion,2,Bachiller
+C0515,IA,4,Maestria
+C0516,Ingenieria de Software,4,Titulado
+C0517,Ingenieria de Software,3,Maestria
+C0518,Programacion,4,Maestria
+C0519,Programacion,3,Titulado
+C0520,Redes,5,Titulado
+C0521,IA,5,Bachiller
+C0522,Redes,2,Maestria
+C0523,Programacion,2,Maestria
+C0524,Seguridad,4,Doctorado
+C0525,Bases de Datos,2,Bachiller
+C0526,Programacion,3,Bachiller
+C0527,IA,5,Maestria
+C0528,Redes,5,Bachiller
+C0529,Redes,3,Bachiller
+C0530,Ingenieria de Software,5,Titulado
+C0531,Bases de Datos,4,Bachiller
+C0532,Programacion,4,Maestria
+C0533,Redes,2,Titulado
+C0534,Bases de Datos,4,Bachiller
+C0535,Ingenieria de Software,3,Doctorado
+C0536,Redes,2,Doctorado
+C0537,Seguridad,2,Titulado
+C0538,Bases de Datos,5,Maestria
+C0539,Ingenieria de Software,3,Doctorado
+C0540,Redes,2,Doctorado
+C0541,Redes,3,Bachiller
+C0542,IA,5,Bachiller
+C0543,IA,5,Maestria
+C0544,IA,3,Titulado
+C0545,Programacion,2,Maestria
+C0546,Programacion,4,Maestria
+C0547,Ingenieria de Software,2,Bachiller
+C0548,IA,5,Bachiller
+C0549,Ingenieria de Software,2,Bachiller
+C0550,Programacion,5,Bachiller
+C0551,Bases de Datos,5,Bachiller
+C0552,Ingenieria de Software,4,Bachiller
+C0553,Ingenieria de Software,4,Doctorado
+C0554,Ingenieria de Software,5,Bachiller
+C0555,Programacion,4,Doctorado
+C0556,Bases de Datos,5,Maestria
+C0557,Seguridad,2,Titulado
+C0558,Seguridad,3,Titulado
+C0559,Redes,2,Titulado
+C0560,Programacion,2,Maestria
+C0561,IA,3,Titulado
+C0562,IA,4,Titulado
+C0563,Seguridad,4,Doctorado
+C0564,Ingenieria de Software,5,Bachiller
+C0565,Ingenieria de Software,2,Titulado
+C0566,Redes,5,Doctorado
+C0567,Bases de Datos,4,Titulado
+C0568,Programacion,4,Doctorado
+C0569,Redes,3,Maestria
+C0570,IA,4,Bachiller
+C0571,Bases de Datos,4,Titulado
+C0572,Redes,4,Bachiller
+C0573,Ingenieria de Software,2,Maestria
+C0574,Redes,2,Doctorado
+C0575,Programacion,2,Bachiller
+C0576,IA,3,Bachiller
+C0577,Seguridad,5,Bachiller
+C0578,Programacion,5,Doctorado
+C0579,Programacion,4,Maestria
+C0580,Ingenieria de Software,3,Maestria
+C0581,Ingenieria de Software,2,Titulado
+C0582,Programacion,3,Bachiller
+C0583,Ingenieria de Software,3,Doctorado
+C0584,Ingenieria de Software,5,Doctorado
+C0585,Bases de Datos,4,Titulado
+C0586,Programacion,4,Titulado
+C0587,Redes,4,Maestria
+C0588,Programacion,5,Maestria
+C0589,Seguridad,5,Titulado
+C0590,Redes,4,Doctorado
+C0591,Ingenieria de Software,5,Bachiller
+C0592,IA,5,Titulado
+C0593,Bases de Datos,5,Maestria
+C0594,Seguridad,4,Doctorado
+C0595,Programacion,2,Maestria
+C0596,Redes,4,Titulado
+C0597,Bases de Datos,4,Doctorado
+C0598,Bases de Datos,2,Doctorado
+C0599,Seguridad,3,Doctorado
+C0600,Programacion,3,Doctorado
+C0601,Seguridad,2,Bachiller
+C0602,Ingenieria de Software,5,Doctorado
+C0603,Seguridad,2,Bachiller
+C0604,Seguridad,3,Maestria
+C0605,IA,3,Doctorado
+C0606,Redes,2,Doctorado
+C0607,Ingenieria de Software,2,Doctorado
+C0608,Ingenieria de Software,2,Titulado
+C0609,Redes,5,Titulado
+C0610,Programacion,4,Doctorado
+C0611,Redes,2,Titulado
+C0612,Bases de Datos,2,Doctorado
+C0613,Ingenieria de Software,2,Doctorado
+C0614,Seguridad,5,Bachiller
+C0615,Bases de Datos,3,Maestria
+C0616,Ingenieria de Software,2,Doctorado
+C0617,Programacion,5,Bachiller
+C0618,Bases de Datos,5,Bachiller
+C0619,Bases de Datos,4,Titulado
+C0620,Redes,4,Titulado
+C0621,Redes,4,Doctorado
+C0622,Ingenieria de Software,4,Maestria
+C0623,Programacion,3,Doctorado
+C0624,Bases de Datos,2,Titulado
+C0625,IA,2,Bachiller
+C0626,Bases de Datos,4,Maestria
+C0627,Bases de Datos,5,Maestria
+C0628,Programacion,2,Doctorado
+C0629,Programacion,4,Maestria
+C0630,Redes,2,Bachiller
+C0631,IA,5,Bachiller
+C0632,Ingenieria de Software,3,Titulado
+C0633,Redes,5,Doctorado
+C0634,Programacion,5,Maestria
+C0635,Redes,5,Titulado
+C0636,IA,2,Titulado
+C0637,IA,3,Bachiller
+C0638,Bases de Datos,2,Maestria
+C0639,Ingenieria de Software,5,Doctorado
+C0640,Redes,2,Doctorado
+C0641,IA,4,Bachiller
+C0642,Seguridad,2,Maestria
+C0643,Programacion,4,Doctorado
+C0644,IA,2,Titulado
+C0645,Seguridad,3,Titulado
+C0646,Ingenieria de Software,3,Titulado
+C0647,Bases de Datos,4,Titulado
+C0648,Ingenieria de Software,5,Maestria
+C0649,Bases de Datos,2,Titulado
+C0650,IA,4,Titulado
+C0651,Programacion,4,Doctorado
+C0652,Redes,2,Doctorado
+C0653,Ingenieria de Software,4,Maestria
+C0654,Redes,5,Bachiller
+C0655,IA,4,Maestria
+C0656,Redes,4,Doctorado
+C0657,Bases de Datos,3,Bachiller
+C0658,Redes,4,Doctorado
+C0659,Programacion,4,Doctorado
+C0660,Programacion,5,Maestria
+C0661,Bases de Datos,2,Titulado
+C0662,Seguridad,5,Bachiller
+C0663,Bases de Datos,4,Bachiller
+C0664,IA,3,Bachiller
+C0665,Ingenieria de Software,4,Bachiller
+C0666,Redes,4,Maestria
+C0667,IA,4,Maestria
+C0668,IA,4,Titulado
+C0669,Redes,4,Titulado
+C0670,IA,3,Doctorado
+C0671,IA,2,Titulado
+C0672,Seguridad,2,Bachiller
+C0673,Programacion,4,Bachiller
+C0674,Redes,3,Maestria
+C0675,Bases de Datos,2,Bachiller
+C0676,IA,2,Maestria
+C0677,IA,5,Titulado
+C0678,IA,5,Bachiller
+C0679,Bases de Datos,2,Titulado
+C0680,Programacion,5,Doctorado
+C0681,Seguridad,3,Titulado
+C0682,Redes,2,Bachiller
+C0683,Programacion,4,Doctorado
+C0684,Bases de Datos,5,Titulado
+C0685,Ingenieria de Software,3,Doctorado
+C0686,Seguridad,5,Maestria
+C0687,Ingenieria de Software,3,Bachiller
+C0688,Seguridad,4,Maestria
+C0689,Redes,4,Maestria
+C0690,Ingenieria de Software,2,Maestria
+C0691,Programacion,5,Maestria
+C0692,Ingenieria de Software,3,Maestria
+C0693,IA,4,Doctorado
+C0694,IA,2,Titulado
+C0695,Ingenieria de Software,5,Doctorado
+C0696,Bases de Datos,3,Bachiller
+C0697,Redes,2,Maestria
+C0698,Bases de Datos,3,Titulado
+C0699,Bases de Datos,5,Bachiller
+C0700,IA,2,Doctorado
+C0701,Bases de Datos,3,Doctorado
+C0702,Seguridad,2,Bachiller
+C0703,IA,4,Doctorado
+C0704,Bases de Datos,2,Maestria
+C0705,IA,3,Doctorado
+C0706,Bases de Datos,3,Doctorado
+C0707,Seguridad,2,Titulado
+C0708,Redes,2,Bachiller
+C0709,Seguridad,4,Titulado
+C0710,IA,4,Bachiller
+C0711,Redes,5,Titulado
+C0712,Redes,5,Bachiller
+C0713,IA,3,Doctorado
+C0714,Bases de Datos,2,Maestria
+C0715,Seguridad,2,Doctorado
+C0716,Ingenieria de Software,3,Maestria
+C0717,Bases de Datos,2,Maestria
+C0718,Redes,4,Maestria
+C0719,Seguridad,3,Bachiller
+C0720,IA,2,Maestria
+C0721,Redes,5,Maestria
+C0722,Bases de Datos,3,Maestria
+C0723,Programacion,3,Titulado
+C0724,Ingenieria de Software,3,Titulado
+C0725,Bases de Datos,2,Doctorado
+C0726,IA,5,Doctorado
+C0727,IA,4,Doctorado
+C0728,Redes,4,Maestria
+C0729,Ingenieria de Software,3,Bachiller
+C0730,Bases de Datos,5,Bachiller
+C0731,Programacion,2,Doctorado
+C0732,Redes,4,Bachiller
+C0733,Ingenieria de Software,2,Maestria
+C0734,Seguridad,3,Maestria
+C0735,Ingenieria de Software,5,Bachiller
+C0736,IA,5,Maestria
+C0737,Redes,3,Bachiller
+C0738,Seguridad,2,Maestria
+C0739,IA,2,Doctorado
+C0740,Seguridad,2,Maestria
+C0741,IA,4,Bachiller
+C0742,Seguridad,3,Bachiller
+C0743,IA,4,Maestria
+C0744,Seguridad,2,Titulado
+C0745,Ingenieria de Software,3,Maestria
+C0746,Bases de Datos,3,Bachiller
+C0747,Programacion,3,Titulado
+C0748,Bases de Datos,5,Doctorado
+C0749,Ingenieria de Software,3,Bachiller
+C0750,Bases de Datos,5,Titulado
+C0751,Seguridad,3,Titulado
+C0752,Programacion,2,Maestria
+C0753,Redes,3,Maestria
+C0754,IA,3,Maestria
+C0755,IA,5,Titulado
+C0756,IA,5,Doctorado
+C0757,Programacion,4,Maestria
+C0758,IA,5,Bachiller
+C0759,Redes,4,Bachiller
+C0760,Programacion,2,Doctorado
+C0761,Seguridad,2,Bachiller
+C0762,Redes,4,Maestria
+C0763,IA,2,Titulado
+C0764,Redes,4,Bachiller
+C0765,Programacion,3,Bachiller
+C0766,Bases de Datos,5,Titulado
+C0767,Programacion,2,Bachiller
+C0768,Bases de Datos,2,Doctorado
+C0769,Seguridad,3,Bachiller
+C0770,Bases de Datos,3,Doctorado
+C0771,Ingenieria de Software,2,Doctorado
+C0772,Ingenieria de Software,3,Doctorado
+C0773,Seguridad,2,Titulado
+C0774,IA,4,Maestria
+C0775,Redes,2,Maestria
+C0776,Programacion,5,Maestria
+C0777,Seguridad,4,Bachiller
+C0778,Ingenieria de Software,3,Maestria
+C0779,Bases de Datos,3,Bachiller
+C0780,Redes,5,Maestria
+C0781,Ingenieria de Software,4,Doctorado
+C0782,Bases de Datos,5,Bachiller
+C0783,Redes,4,Titulado
+C0784,Ingenieria de Software,5,Bachiller
+C0785,Ingenieria de Software,5,Doctorado
+C0786,Seguridad,2,Doctorado
+C0787,Programacion,3,Bachiller
+C0788,Bases de Datos,2,Doctorado
+C0789,Programacion,5,Bachiller
+C0790,IA,4,Bachiller
+C0791,Programacion,5,Maestria
+C0792,Ingenieria de Software,4,Titulado
+C0793,IA,2,Doctorado
+C0794,Ingenieria de Software,2,Maestria
+C0795,Programacion,2,Titulado
+C0796,Ingenieria de Software,3,Doctorado
+C0797,Seguridad,5,Bachiller
+C0798,Bases de Datos,2,Maestria
+C0799,Bases de Datos,3,Doctorado
+C0800,Bases de Datos,2,Titulado
+C0801,Seguridad,2,Titulado
+C0802,Redes,5,Bachiller
+C0803,Redes,4,Titulado
+C0804,Bases de Datos,3,Bachiller
+C0805,Seguridad,4,Doctorado
+C0806,Redes,5,Maestria
+C0807,Seguridad,4,Bachiller
+C0808,Seguridad,3,Maestria
+C0809,IA,5,Doctorado
+C0810,Programacion,2,Maestria
+C0811,Redes,4,Titulado
+C0812,Seguridad,5,Bachiller
+C0813,Bases de Datos,5,Bachiller
+C0814,Redes,3,Bachiller
+C0815,Redes,5,Doctorado
+C0816,Seguridad,2,Bachiller
+C0817,Redes,5,Doctorado
+C0818,Redes,5,Doctorado
+C0819,Bases de Datos,2,Maestria
+C0820,Programacion,5,Bachiller
+C0821,Redes,5,Doctorado
+C0822,Bases de Datos,4,Bachiller
+C0823,IA,4,Titulado
+C0824,Ingenieria de Software,2,Doctorado
+C0825,Seguridad,5,Maestria
+C0826,Ingenieria de Software,4,Maestria
+C0827,Ingenieria de Software,5,Titulado
+C0828,Programacion,3,Maestria
+C0829,Ingenieria de Software,4,Titulado
+C0830,Ingenieria de Software,2,Titulado
+C0831,IA,4,Doctorado
+C0832,IA,5,Titulado
+C0833,IA,2,Doctorado
+C0834,Seguridad,2,Doctorado
+C0835,IA,4,Doctorado
+C0836,IA,3,Bachiller
+C0837,Redes,2,Maestria
+C0838,IA,3,Bachiller
+C0839,IA,4,Doctorado
+C0840,Ingenieria de Software,3,Doctorado
+C0841,Bases de Datos,5,Maestria
+C0842,Redes,4,Maestria
+C0843,Redes,3,Bachiller
+C0844,Bases de Datos,5,Bachiller
+C0845,Redes,5,Bachiller
+C0846,IA,4,Titulado
+C0847,Bases de Datos,2,Doctorado
+C0848,IA,2,Bachiller
+C0849,Bases de Datos,5,Doctorado
+C0850,Programacion,3,Doctorado
+C0851,Ingenieria de Software,4,Doctorado
+C0852,Ingenieria de Software,3,Maestria
+C0853,Seguridad,2,Doctorado
+C0854,Programacion,5,Titulado
+C0855,Ingenieria de Software,2,Titulado
+C0856,Programacion,3,Doctorado
+C0857,Seguridad,4,Doctorado
+C0858,IA,2,Titulado
+C0859,IA,5,Doctorado
+C0860,IA,5,Doctorado
+C0861,Redes,3,Titulado
+C0862,Redes,2,Titulado
+C0863,Redes,3,Titulado
+C0864,Programacion,5,Doctorado
+C0865,Programacion,2,Titulado
+C0866,Bases de Datos,2,Bachiller
+C0867,Seguridad,3,Bachiller
+C0868,Redes,3,Maestria
+C0869,Redes,5,Maestria
+C0870,Ingenieria de Software,2,Doctorado
+C0871,Seguridad,4,Maestria
+C0872,IA,4,Titulado
+C0873,IA,2,Doctorado
+C0874,Bases de Datos,2,Bachiller
+C0875,IA,3,Maestria
+C0876,Seguridad,5,Maestria
+C0877,Seguridad,3,Titulado
+C0878,Seguridad,4,Doctorado
+C0879,Seguridad,5,Bachiller
+C0880,Ingenieria de Software,2,Titulado
+C0881,Bases de Datos,5,Bachiller
+C0882,Bases de Datos,2,Titulado
+C0883,IA,5,Bachiller
+C0884,Bases de Datos,5,Doctorado
+C0885,Seguridad,4,Maestria
+C0886,IA,4,Bachiller
+C0887,Ingenieria de Software,4,Doctorado
+C0888,Seguridad,4,Maestria
+C0889,Programacion,4,Doctorado
+C0890,IA,4,Doctorado
+C0891,Programacion,5,Titulado
+C0892,Bases de Datos,5,Maestria
+C0893,Redes,5,Doctorado
+C0894,Redes,4,Bachiller
+C0895,Redes,5,Titulado
+C0896,Seguridad,4,Maestria
+C0897,Ingenieria de Software,5,Titulado
+C0898,Seguridad,2,Doctorado
+C0899,Seguridad,3,Titulado
+C0900,Bases de Datos,2,Bachiller
+C0901,Programacion,4,Titulado
+C0902,Ingenieria de Software,5,Titulado
+C0903,Ingenieria de Software,3,Bachiller
+C0904,Seguridad,5,Titulado
+C0905,Programacion,4,Bachiller
+C0906,Redes,3,Titulado
+C0907,Programacion,3,Titulado
+C0908,Seguridad,5,Bachiller
+C0909,Seguridad,2,Maestria
+C0910,Bases de Datos,5,Maestria
+C0911,Programacion,5,Titulado
+C0912,Bases de Datos,5,Bachiller
+C0913,Redes,3,Doctorado
+C0914,Redes,5,Titulado
+C0915,IA,2,Titulado
+C0916,Ingenieria de Software,4,Doctorado
+C0917,IA,3,Titulado
+C0918,Redes,2,Bachiller
+C0919,Ingenieria de Software,3,Maestria
+C0920,Bases de Datos,2,Maestria
+C0921,Redes,4,Doctorado
+C0922,IA,3,Maestria
+C0923,IA,5,Titulado
+C0924,Seguridad,3,Doctorado
+C0925,Redes,5,Bachiller
+C0926,Programacion,2,Doctorado
+C0927,Redes,2,Bachiller
+C0928,Seguridad,4,Maestria
+C0929,Programacion,4,Maestria
+C0930,Redes,2,Maestria
+C0931,Redes,2,Bachiller
+C0932,Programacion,2,Maestria
+C0933,Seguridad,3,Doctorado
+C0934,Seguridad,4,Doctorado
+C0935,Ingenieria de Software,4,Bachiller
+C0936,Seguridad,3,Doctorado
+C0937,Redes,2,Titulado
+C0938,Seguridad,5,Bachiller
+C0939,Redes,4,Bachiller
+C0940,IA,5,Doctorado
+C0941,Seguridad,2,Maestria
+C0942,Seguridad,5,Titulado
+C0943,Bases de Datos,3,Doctorado
+C0944,Programacion,4,Maestria
+C0945,Ingenieria de Software,5,Titulado
+C0946,Redes,2,Maestria
+C0947,Bases de Datos,3,Doctorado
+C0948,Redes,5,Titulado
+C0949,Bases de Datos,5,Bachiller
+C0950,Programacion,5,Maestria
+C0951,Ingenieria de Software,2,Titulado
+C0952,Redes,4,Doctorado
+C0953,Programacion,4,Bachiller
+C0954,Bases de Datos,3,Titulado
+C0955,Seguridad,3,Bachiller
+C0956,Programacion,3,Titulado
+C0957,Seguridad,5,Titulado
+C0958,Ingenieria de Software,3,Titulado
+C0959,Redes,5,Titulado
+C0960,Redes,2,Maestria
+C0961,Seguridad,5,Titulado
+C0962,Redes,2,Doctorado
+C0963,Ingenieria de Software,2,Titulado
+C0964,Bases de Datos,2,Maestria
+C0965,Ingenieria de Software,2,Doctorado
+C0966,Programacion,5,Titulado
+C0967,Ingenieria de Software,5,Titulado
+C0968,Bases de Datos,4,Doctorado
+C0969,Seguridad,2,Doctorado
+C0970,Bases de Datos,5,Bachiller
+C0971,Seguridad,5,Titulado
+C0972,Seguridad,2,Bachiller
+C0973,Ingenieria de Software,5,Maestria
+C0974,Bases de Datos,4,Maestria
+C0975,Redes,4,Doctorado
+C0976,Programacion,3,Maestria
+C0977,Ingenieria de Software,5,Doctorado
+C0978,IA,5,Bachiller
+C0979,Programacion,4,Maestria
+C0980,IA,4,Maestria
+C0981,Seguridad,3,Titulado
+C0982,Programacion,5,Doctorado
+C0983,Programacion,5,Doctorado
+C0984,IA,5,Bachiller
+C0985,IA,2,Bachiller
+C0986,Redes,4,Doctorado
+C0987,Seguridad,5,Doctorado
+C0988,Bases de Datos,4,Bachiller
+C0989,Programacion,5,Doctorado
+C0990,Ingenieria de Software,3,Bachiller
+C0991,IA,5,Doctorado
+C0992,Ingenieria de Software,3,Doctorado
+C0993,Seguridad,5,Maestria
+C0994,Bases de Datos,5,Titulado
+C0995,Ingenieria de Software,5,Maestria
+C0996,Seguridad,4,Titulado
+C0997,Programacion,3,Bachiller
+C0998,Seguridad,3,Doctorado
+C0999,Seguridad,3,Doctorado
+C1000,IA,3,Titulado

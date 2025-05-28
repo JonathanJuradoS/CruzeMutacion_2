@@ -1,0 +1,2001 @@
+docente_id,especialidad_docente,carga_maxima_docente,nivel_academico_docente
+D0001,Programacion,10,Maestria
+D0002,Bases de Datos,12,Doctorado
+D0003,Bases de Datos,16,Maestria
+D0004,Ingenieria de Software,10,Doctorado
+D0005,Bases de Datos,10,Bachiller
+D0006,Programacion,16,Maestria
+D0007,Programacion,14,Doctorado
+D0008,Seguridad,12,Maestria
+D0009,IA,12,Maestria
+D0010,Programacion,14,Titulado
+D0011,Ingenieria de Software,12,Bachiller
+D0012,Bases de Datos,12,Titulado
+D0013,Redes,10,Maestria
+D0014,Ingenieria de Software,14,Titulado
+D0015,Programacion,12,Doctorado
+D0016,Bases de Datos,12,Bachiller
+D0017,Redes,12,Titulado
+D0018,Redes,12,Doctorado
+D0019,Programacion,16,Titulado
+D0020,Seguridad,14,Maestria
+D0021,Seguridad,14,Doctorado
+D0022,IA,14,Maestria
+D0023,Redes,10,Doctorado
+D0024,Redes,14,Doctorado
+D0025,Programacion,12,Bachiller
+D0026,Ingenieria de Software,16,Doctorado
+D0027,Redes,14,Doctorado
+D0028,Bases de Datos,16,Titulado
+D0029,Programacion,12,Titulado
+D0030,Seguridad,14,Maestria
+D0031,Redes,14,Doctorado
+D0032,Redes,12,Maestria
+D0033,Bases de Datos,14,Titulado
+D0034,Ingenieria de Software,14,Bachiller
+D0035,Ingenieria de Software,12,Maestria
+D0036,Redes,12,Titulado
+D0037,Redes,10,Maestria
+D0038,Programacion,16,Titulado
+D0039,Seguridad,14,Doctorado
+D0040,Ingenieria de Software,12,Doctorado
+D0041,Bases de Datos,14,Maestria
+D0042,Seguridad,10,Bachiller
+D0043,IA,14,Doctorado
+D0044,Ingenieria de Software,14,Titulado
+D0045,Redes,16,Bachiller
+D0046,Seguridad,10,Bachiller
+D0047,Bases de Datos,12,Bachiller
+D0048,Ingenieria de Software,10,Maestria
+D0049,Programacion,16,Doctorado
+D0050,IA,10,Bachiller
+D0051,Programacion,16,Maestria
+D0052,Seguridad,10,Maestria
+D0053,Bases de Datos,14,Maestria
+D0054,Ingenieria de Software,16,Maestria
+D0055,Programacion,12,Maestria
+D0056,Redes,12,Maestria
+D0057,Bases de Datos,12,Maestria
+D0058,Bases de Datos,12,Bachiller
+D0059,Programacion,14,Doctorado
+D0060,Ingenieria de Software,10,Bachiller
+D0061,Bases de Datos,10,Titulado
+D0062,Redes,14,Doctorado
+D0063,Redes,16,Doctorado
+D0064,Bases de Datos,16,Bachiller
+D0065,IA,16,Titulado
+D0066,Seguridad,12,Bachiller
+D0067,Programacion,16,Titulado
+D0068,Redes,16,Doctorado
+D0069,Ingenieria de Software,10,Titulado
+D0070,Redes,16,Bachiller
+D0071,Seguridad,10,Titulado
+D0072,IA,10,Doctorado
+D0073,Programacion,16,Maestria
+D0074,IA,12,Titulado
+D0075,Seguridad,12,Maestria
+D0076,Ingenieria de Software,12,Doctorado
+D0077,IA,12,Maestria
+D0078,Seguridad,12,Bachiller
+D0079,Ingenieria de Software,14,Maestria
+D0080,Ingenieria de Software,14,Maestria
+D0081,IA,10,Maestria
+D0082,Seguridad,16,Doctorado
+D0083,Ingenieria de Software,14,Doctorado
+D0084,Ingenieria de Software,16,Bachiller
+D0085,IA,16,Bachiller
+D0086,Bases de Datos,16,Doctorado
+D0087,Programacion,12,Maestria
+D0088,Bases de Datos,12,Titulado
+D0089,IA,10,Bachiller
+D0090,Redes,12,Doctorado
+D0091,Programacion,10,Titulado
+D0092,Ingenieria de Software,14,Maestria
+D0093,IA,12,Bachiller
+D0094,IA,10,Bachiller
+D0095,Programacion,12,Titulado
+D0096,Seguridad,10,Maestria
+D0097,Seguridad,10,Bachiller
+D0098,Bases de Datos,10,Titulado
+D0099,Redes,14,Titulado
+D0100,Bases de Datos,10,Maestria
+D0101,IA,16,Doctorado
+D0102,Seguridad,16,Maestria
+D0103,Programacion,14,Titulado
+D0104,Redes,14,Titulado
+D0105,Bases de Datos,10,Titulado
+D0106,Programacion,12,Titulado
+D0107,IA,14,Titulado
+D0108,IA,10,Titulado
+D0109,Seguridad,14,Titulado
+D0110,Bases de Datos,16,Maestria
+D0111,IA,12,Doctorado
+D0112,Ingenieria de Software,16,Titulado
+D0113,Programacion,16,Bachiller
+D0114,Bases de Datos,12,Titulado
+D0115,Bases de Datos,16,Titulado
+D0116,Redes,12,Bachiller
+D0117,Programacion,16,Maestria
+D0118,Bases de Datos,12,Titulado
+D0119,Ingenieria de Software,16,Doctorado
+D0120,Ingenieria de Software,14,Maestria
+D0121,Redes,10,Maestria
+D0122,Seguridad,12,Titulado
+D0123,Bases de Datos,14,Titulado
+D0124,Seguridad,10,Bachiller
+D0125,Programacion,14,Maestria
+D0126,Redes,14,Doctorado
+D0127,Bases de Datos,10,Titulado
+D0128,Programacion,16,Titulado
+D0129,Ingenieria de Software,14,Titulado
+D0130,Programacion,14,Doctorado
+D0131,IA,10,Bachiller
+D0132,Redes,14,Doctorado
+D0133,IA,14,Bachiller
+D0134,Seguridad,10,Bachiller
+D0135,Programacion,10,Doctorado
+D0136,Programacion,16,Bachiller
+D0137,IA,14,Bachiller
+D0138,Bases de Datos,12,Doctorado
+D0139,Ingenieria de Software,10,Bachiller
+D0140,Seguridad,16,Titulado
+D0141,Redes,12,Bachiller
+D0142,Ingenieria de Software,16,Doctorado
+D0143,IA,16,Maestria
+D0144,Redes,10,Doctorado
+D0145,Ingenieria de Software,14,Maestria
+D0146,IA,16,Bachiller
+D0147,Ingenieria de Software,14,Maestria
+D0148,Programacion,12,Bachiller
+D0149,Redes,10,Bachiller
+D0150,Seguridad,12,Bachiller
+D0151,Seguridad,14,Maestria
+D0152,Ingenieria de Software,16,Doctorado
+D0153,Ingenieria de Software,16,Maestria
+D0154,Seguridad,12,Titulado
+D0155,Redes,16,Maestria
+D0156,Programacion,14,Doctorado
+D0157,Programacion,14,Bachiller
+D0158,Seguridad,16,Bachiller
+D0159,Programacion,16,Maestria
+D0160,Programacion,14,Titulado
+D0161,Programacion,10,Maestria
+D0162,Seguridad,10,Maestria
+D0163,IA,14,Bachiller
+D0164,Seguridad,16,Titulado
+D0165,Ingenieria de Software,12,Bachiller
+D0166,Seguridad,14,Bachiller
+D0167,Programacion,16,Maestria
+D0168,Seguridad,12,Bachiller
+D0169,Programacion,12,Bachiller
+D0170,Seguridad,16,Doctorado
+D0171,Programacion,16,Doctorado
+D0172,IA,12,Maestria
+D0173,Seguridad,16,Maestria
+D0174,Bases de Datos,12,Bachiller
+D0175,Seguridad,10,Bachiller
+D0176,Bases de Datos,16,Doctorado
+D0177,IA,12,Maestria
+D0178,Programacion,10,Titulado
+D0179,Redes,10,Titulado
+D0180,Redes,12,Maestria
+D0181,Programacion,14,Titulado
+D0182,Ingenieria de Software,10,Maestria
+D0183,Redes,10,Titulado
+D0184,Ingenieria de Software,14,Bachiller
+D0185,Redes,10,Titulado
+D0186,Redes,10,Titulado
+D0187,Ingenieria de Software,16,Maestria
+D0188,Seguridad,14,Maestria
+D0189,Redes,10,Bachiller
+D0190,Ingenieria de Software,12,Maestria
+D0191,Seguridad,14,Doctorado
+D0192,Redes,10,Titulado
+D0193,Seguridad,10,Doctorado
+D0194,Seguridad,16,Bachiller
+D0195,Bases de Datos,12,Maestria
+D0196,IA,10,Bachiller
+D0197,IA,12,Titulado
+D0198,Ingenieria de Software,14,Maestria
+D0199,Seguridad,16,Titulado
+D0200,IA,16,Doctorado
+D0201,Redes,14,Titulado
+D0202,Ingenieria de Software,12,Doctorado
+D0203,Seguridad,16,Bachiller
+D0204,Bases de Datos,14,Doctorado
+D0205,IA,12,Doctorado
+D0206,Programacion,12,Bachiller
+D0207,Redes,14,Doctorado
+D0208,Programacion,16,Maestria
+D0209,Ingenieria de Software,14,Doctorado
+D0210,Seguridad,10,Bachiller
+D0211,Redes,16,Titulado
+D0212,Programacion,16,Titulado
+D0213,Bases de Datos,14,Bachiller
+D0214,Programacion,14,Titulado
+D0215,IA,16,Maestria
+D0216,Seguridad,10,Titulado
+D0217,Redes,14,Maestria
+D0218,Redes,10,Maestria
+D0219,Seguridad,12,Titulado
+D0220,Redes,10,Bachiller
+D0221,Redes,10,Maestria
+D0222,IA,16,Doctorado
+D0223,Programacion,14,Maestria
+D0224,IA,14,Titulado
+D0225,Redes,12,Bachiller
+D0226,Seguridad,14,Doctorado
+D0227,Seguridad,16,Doctorado
+D0228,Programacion,10,Doctorado
+D0229,Redes,10,Maestria
+D0230,Redes,16,Doctorado
+D0231,Redes,14,Maestria
+D0232,IA,12,Titulado
+D0233,IA,10,Maestria
+D0234,Seguridad,14,Maestria
+D0235,Programacion,16,Maestria
+D0236,Bases de Datos,16,Doctorado
+D0237,Bases de Datos,12,Doctorado
+D0238,Programacion,14,Bachiller
+D0239,Ingenieria de Software,16,Doctorado
+D0240,Redes,12,Titulado
+D0241,IA,12,Maestria
+D0242,Programacion,10,Doctorado
+D0243,Ingenieria de Software,10,Titulado
+D0244,Programacion,16,Maestria
+D0245,Bases de Datos,14,Titulado
+D0246,Seguridad,10,Bachiller
+D0247,Bases de Datos,16,Titulado
+D0248,Ingenieria de Software,10,Bachiller
+D0249,Ingenieria de Software,16,Titulado
+D0250,Seguridad,10,Doctorado
+D0251,IA,10,Doctorado
+D0252,IA,14,Titulado
+D0253,Programacion,12,Maestria
+D0254,Bases de Datos,12,Bachiller
+D0255,Programacion,14,Doctorado
+D0256,Seguridad,14,Maestria
+D0257,Bases de Datos,16,Maestria
+D0258,Bases de Datos,12,Maestria
+D0259,Programacion,16,Bachiller
+D0260,IA,10,Titulado
+D0261,Seguridad,10,Titulado
+D0262,Ingenieria de Software,10,Doctorado
+D0263,IA,12,Bachiller
+D0264,IA,16,Doctorado
+D0265,IA,14,Titulado
+D0266,Programacion,10,Bachiller
+D0267,Redes,10,Doctorado
+D0268,Bases de Datos,10,Titulado
+D0269,Seguridad,12,Maestria
+D0270,Redes,10,Maestria
+D0271,Bases de Datos,16,Doctorado
+D0272,Programacion,16,Doctorado
+D0273,Ingenieria de Software,12,Bachiller
+D0274,Programacion,16,Titulado
+D0275,Ingenieria de Software,14,Doctorado
+D0276,Redes,10,Bachiller
+D0277,Seguridad,14,Bachiller
+D0278,Seguridad,12,Doctorado
+D0279,Programacion,14,Maestria
+D0280,Redes,16,Bachiller
+D0281,Seguridad,12,Bachiller
+D0282,Ingenieria de Software,12,Doctorado
+D0283,IA,14,Titulado
+D0284,Ingenieria de Software,16,Titulado
+D0285,Bases de Datos,12,Bachiller
+D0286,IA,14,Doctorado
+D0287,IA,12,Bachiller
+D0288,IA,12,Bachiller
+D0289,Programacion,14,Bachiller
+D0290,Bases de Datos,10,Bachiller
+D0291,Seguridad,16,Doctorado
+D0292,Redes,14,Maestria
+D0293,IA,12,Maestria
+D0294,Programacion,10,Bachiller
+D0295,IA,14,Maestria
+D0296,IA,12,Doctorado
+D0297,Programacion,12,Maestria
+D0298,Redes,12,Doctorado
+D0299,IA,16,Titulado
+D0300,Seguridad,10,Titulado
+D0301,Ingenieria de Software,16,Doctorado
+D0302,Programacion,10,Bachiller
+D0303,Bases de Datos,16,Doctorado
+D0304,Ingenieria de Software,12,Titulado
+D0305,Programacion,14,Titulado
+D0306,Bases de Datos,12,Bachiller
+D0307,Seguridad,12,Doctorado
+D0308,Programacion,10,Bachiller
+D0309,Bases de Datos,10,Maestria
+D0310,Bases de Datos,12,Bachiller
+D0311,Seguridad,16,Titulado
+D0312,IA,10,Doctorado
+D0313,Ingenieria de Software,14,Bachiller
+D0314,Bases de Datos,16,Bachiller
+D0315,Seguridad,12,Titulado
+D0316,Ingenieria de Software,12,Titulado
+D0317,Seguridad,16,Doctorado
+D0318,Programacion,12,Maestria
+D0319,Programacion,14,Maestria
+D0320,Redes,10,Doctorado
+D0321,Redes,14,Titulado
+D0322,IA,12,Doctorado
+D0323,Bases de Datos,16,Titulado
+D0324,IA,16,Doctorado
+D0325,Redes,14,Doctorado
+D0326,Seguridad,12,Maestria
+D0327,Redes,14,Maestria
+D0328,Seguridad,14,Titulado
+D0329,Bases de Datos,16,Bachiller
+D0330,IA,12,Maestria
+D0331,Redes,10,Maestria
+D0332,IA,16,Titulado
+D0333,Seguridad,14,Bachiller
+D0334,Redes,14,Bachiller
+D0335,Seguridad,14,Bachiller
+D0336,Ingenieria de Software,14,Bachiller
+D0337,Redes,16,Bachiller
+D0338,IA,10,Doctorado
+D0339,Bases de Datos,10,Maestria
+D0340,Ingenieria de Software,14,Maestria
+D0341,Redes,14,Bachiller
+D0342,Programacion,10,Doctorado
+D0343,Programacion,12,Titulado
+D0344,IA,10,Titulado
+D0345,Redes,16,Doctorado
+D0346,Redes,14,Titulado
+D0347,Bases de Datos,16,Titulado
+D0348,Seguridad,16,Maestria
+D0349,Ingenieria de Software,14,Bachiller
+D0350,Seguridad,14,Titulado
+D0351,Programacion,16,Doctorado
+D0352,Programacion,14,Doctorado
+D0353,Programacion,16,Bachiller
+D0354,IA,12,Titulado
+D0355,Redes,14,Bachiller
+D0356,Ingenieria de Software,10,Doctorado
+D0357,Programacion,12,Bachiller
+D0358,Seguridad,10,Titulado
+D0359,Seguridad,16,Titulado
+D0360,Seguridad,14,Doctorado
+D0361,Programacion,16,Doctorado
+D0362,Programacion,14,Maestria
+D0363,IA,14,Titulado
+D0364,Redes,12,Maestria
+D0365,Bases de Datos,14,Doctorado
+D0366,Programacion,14,Doctorado
+D0367,Redes,10,Bachiller
+D0368,Ingenieria de Software,12,Titulado
+D0369,Seguridad,12,Bachiller
+D0370,IA,14,Bachiller
+D0371,Seguridad,14,Maestria
+D0372,Programacion,14,Titulado
+D0373,Seguridad,12,Doctorado
+D0374,IA,10,Bachiller
+D0375,IA,16,Doctorado
+D0376,Programacion,12,Doctorado
+D0377,Bases de Datos,12,Doctorado
+D0378,Seguridad,12,Bachiller
+D0379,Seguridad,16,Bachiller
+D0380,Redes,12,Doctorado
+D0381,Programacion,16,Bachiller
+D0382,Ingenieria de Software,16,Titulado
+D0383,Ingenieria de Software,14,Bachiller
+D0384,IA,16,Maestria
+D0385,Seguridad,16,Bachiller
+D0386,Programacion,16,Doctorado
+D0387,Ingenieria de Software,10,Titulado
+D0388,Ingenieria de Software,12,Doctorado
+D0389,Ingenieria de Software,12,Bachiller
+D0390,Seguridad,16,Titulado
+D0391,Redes,16,Bachiller
+D0392,Seguridad,14,Maestria
+D0393,Seguridad,16,Doctorado
+D0394,IA,12,Titulado
+D0395,Redes,10,Bachiller
+D0396,Programacion,12,Bachiller
+D0397,Bases de Datos,16,Doctorado
+D0398,Programacion,10,Bachiller
+D0399,IA,10,Titulado
+D0400,Bases de Datos,12,Maestria
+D0401,IA,12,Doctorado
+D0402,Programacion,10,Doctorado
+D0403,IA,12,Titulado
+D0404,Seguridad,14,Doctorado
+D0405,Seguridad,16,Titulado
+D0406,IA,16,Bachiller
+D0407,IA,10,Maestria
+D0408,Programacion,12,Maestria
+D0409,Programacion,16,Doctorado
+D0410,IA,14,Maestria
+D0411,IA,12,Maestria
+D0412,Seguridad,12,Maestria
+D0413,IA,12,Bachiller
+D0414,Seguridad,12,Maestria
+D0415,Programacion,14,Maestria
+D0416,Ingenieria de Software,14,Titulado
+D0417,Ingenieria de Software,10,Bachiller
+D0418,Programacion,10,Maestria
+D0419,Ingenieria de Software,12,Maestria
+D0420,IA,12,Doctorado
+D0421,Bases de Datos,14,Bachiller
+D0422,Redes,12,Titulado
+D0423,Redes,14,Maestria
+D0424,IA,14,Bachiller
+D0425,IA,12,Doctorado
+D0426,Seguridad,14,Titulado
+D0427,Seguridad,10,Maestria
+D0428,Ingenieria de Software,14,Maestria
+D0429,Redes,16,Bachiller
+D0430,Programacion,14,Maestria
+D0431,Bases de Datos,14,Titulado
+D0432,Ingenieria de Software,12,Maestria
+D0433,Seguridad,16,Bachiller
+D0434,Programacion,12,Bachiller
+D0435,Ingenieria de Software,10,Doctorado
+D0436,Ingenieria de Software,14,Titulado
+D0437,IA,12,Maestria
+D0438,Redes,16,Bachiller
+D0439,IA,10,Maestria
+D0440,Bases de Datos,10,Bachiller
+D0441,IA,10,Maestria
+D0442,Seguridad,14,Bachiller
+D0443,Bases de Datos,16,Titulado
+D0444,Bases de Datos,12,Bachiller
+D0445,Bases de Datos,14,Bachiller
+D0446,Ingenieria de Software,10,Titulado
+D0447,Programacion,16,Titulado
+D0448,Programacion,16,Titulado
+D0449,Redes,16,Doctorado
+D0450,Bases de Datos,12,Maestria
+D0451,Bases de Datos,16,Doctorado
+D0452,IA,14,Bachiller
+D0453,Ingenieria de Software,12,Doctorado
+D0454,IA,16,Maestria
+D0455,Seguridad,12,Maestria
+D0456,Redes,10,Maestria
+D0457,Ingenieria de Software,16,Bachiller
+D0458,IA,16,Maestria
+D0459,Bases de Datos,16,Titulado
+D0460,Seguridad,12,Maestria
+D0461,Ingenieria de Software,16,Bachiller
+D0462,Programacion,12,Doctorado
+D0463,Programacion,10,Doctorado
+D0464,Ingenieria de Software,16,Doctorado
+D0465,IA,16,Maestria
+D0466,IA,12,Titulado
+D0467,IA,14,Maestria
+D0468,Bases de Datos,10,Titulado
+D0469,Programacion,10,Bachiller
+D0470,Programacion,14,Doctorado
+D0471,IA,12,Titulado
+D0472,Bases de Datos,16,Titulado
+D0473,Seguridad,14,Titulado
+D0474,Bases de Datos,12,Bachiller
+D0475,Programacion,16,Maestria
+D0476,IA,12,Titulado
+D0477,Seguridad,10,Titulado
+D0478,Seguridad,12,Doctorado
+D0479,Programacion,10,Titulado
+D0480,Bases de Datos,12,Maestria
+D0481,Seguridad,10,Bachiller
+D0482,Ingenieria de Software,10,Titulado
+D0483,Bases de Datos,12,Bachiller
+D0484,Redes,12,Maestria
+D0485,Programacion,16,Doctorado
+D0486,Ingenieria de Software,12,Maestria
+D0487,Seguridad,14,Bachiller
+D0488,Programacion,10,Doctorado
+D0489,IA,12,Titulado
+D0490,IA,10,Bachiller
+D0491,Programacion,16,Doctorado
+D0492,Redes,14,Doctorado
+D0493,IA,12,Titulado
+D0494,Ingenieria de Software,16,Titulado
+D0495,Bases de Datos,10,Titulado
+D0496,Seguridad,10,Titulado
+D0497,Seguridad,16,Bachiller
+D0498,Ingenieria de Software,10,Doctorado
+D0499,Seguridad,10,Titulado
+D0500,Redes,16,Bachiller
+D0501,Ingenieria de Software,14,Bachiller
+D0502,IA,10,Bachiller
+D0503,Seguridad,10,Maestria
+D0504,Redes,14,Maestria
+D0505,Redes,16,Maestria
+D0506,Programacion,12,Bachiller
+D0507,Ingenieria de Software,10,Bachiller
+D0508,Redes,14,Maestria
+D0509,Seguridad,14,Bachiller
+D0510,Redes,14,Titulado
+D0511,Bases de Datos,16,Bachiller
+D0512,Seguridad,16,Maestria
+D0513,Ingenieria de Software,10,Bachiller
+D0514,Bases de Datos,12,Bachiller
+D0515,Seguridad,14,Bachiller
+D0516,IA,16,Maestria
+D0517,Seguridad,12,Bachiller
+D0518,Bases de Datos,14,Bachiller
+D0519,Redes,12,Doctorado
+D0520,Seguridad,10,Bachiller
+D0521,Programacion,12,Maestria
+D0522,Redes,12,Titulado
+D0523,Redes,16,Titulado
+D0524,IA,14,Titulado
+D0525,IA,14,Bachiller
+D0526,Programacion,14,Doctorado
+D0527,Bases de Datos,16,Bachiller
+D0528,Ingenieria de Software,12,Titulado
+D0529,Programacion,14,Doctorado
+D0530,Redes,10,Bachiller
+D0531,Seguridad,12,Titulado
+D0532,Bases de Datos,10,Doctorado
+D0533,Ingenieria de Software,14,Maestria
+D0534,Redes,12,Bachiller
+D0535,Programacion,16,Titulado
+D0536,Redes,10,Maestria
+D0537,Bases de Datos,14,Bachiller
+D0538,Programacion,10,Bachiller
+D0539,Seguridad,10,Bachiller
+D0540,Programacion,16,Titulado
+D0541,Ingenieria de Software,12,Bachiller
+D0542,Programacion,12,Doctorado
+D0543,Programacion,16,Maestria
+D0544,Redes,12,Doctorado
+D0545,Seguridad,16,Titulado
+D0546,Redes,14,Doctorado
+D0547,Bases de Datos,10,Maestria
+D0548,Seguridad,16,Maestria
+D0549,Programacion,12,Doctorado
+D0550,Ingenieria de Software,10,Maestria
+D0551,Bases de Datos,12,Maestria
+D0552,Redes,16,Doctorado
+D0553,Seguridad,10,Bachiller
+D0554,Redes,14,Doctorado
+D0555,Ingenieria de Software,12,Doctorado
+D0556,IA,10,Titulado
+D0557,Redes,14,Bachiller
+D0558,Redes,12,Maestria
+D0559,Programacion,16,Titulado
+D0560,Redes,12,Bachiller
+D0561,IA,12,Doctorado
+D0562,Bases de Datos,16,Bachiller
+D0563,Seguridad,16,Bachiller
+D0564,IA,12,Maestria
+D0565,Seguridad,14,Maestria
+D0566,Programacion,16,Bachiller
+D0567,Seguridad,12,Maestria
+D0568,Seguridad,10,Doctorado
+D0569,IA,12,Doctorado
+D0570,Ingenieria de Software,14,Maestria
+D0571,Bases de Datos,12,Maestria
+D0572,Redes,16,Bachiller
+D0573,IA,14,Titulado
+D0574,IA,12,Titulado
+D0575,Ingenieria de Software,12,Bachiller
+D0576,IA,12,Bachiller
+D0577,Programacion,16,Bachiller
+D0578,Seguridad,16,Titulado
+D0579,Seguridad,16,Maestria
+D0580,Seguridad,12,Maestria
+D0581,Redes,10,Maestria
+D0582,IA,16,Doctorado
+D0583,Ingenieria de Software,10,Bachiller
+D0584,IA,14,Bachiller
+D0585,Redes,16,Maestria
+D0586,Redes,10,Bachiller
+D0587,Redes,10,Doctorado
+D0588,Seguridad,10,Doctorado
+D0589,Seguridad,14,Doctorado
+D0590,Bases de Datos,10,Doctorado
+D0591,Bases de Datos,12,Titulado
+D0592,IA,10,Titulado
+D0593,Programacion,16,Titulado
+D0594,Programacion,16,Doctorado
+D0595,Seguridad,16,Doctorado
+D0596,Ingenieria de Software,14,Doctorado
+D0597,Redes,16,Titulado
+D0598,IA,12,Doctorado
+D0599,Programacion,16,Titulado
+D0600,Programacion,12,Bachiller
+D0601,Ingenieria de Software,12,Maestria
+D0602,Seguridad,16,Maestria
+D0603,Ingenieria de Software,12,Bachiller
+D0604,Bases de Datos,12,Bachiller
+D0605,Redes,12,Maestria
+D0606,Ingenieria de Software,12,Maestria
+D0607,Ingenieria de Software,12,Doctorado
+D0608,Programacion,14,Doctorado
+D0609,Seguridad,10,Doctorado
+D0610,Redes,12,Bachiller
+D0611,Ingenieria de Software,12,Doctorado
+D0612,IA,16,Doctorado
+D0613,IA,16,Titulado
+D0614,Bases de Datos,12,Titulado
+D0615,Redes,12,Titulado
+D0616,Bases de Datos,12,Maestria
+D0617,Programacion,12,Titulado
+D0618,Bases de Datos,14,Maestria
+D0619,IA,10,Titulado
+D0620,Redes,12,Doctorado
+D0621,Bases de Datos,12,Bachiller
+D0622,Programacion,16,Doctorado
+D0623,Ingenieria de Software,16,Bachiller
+D0624,IA,16,Maestria
+D0625,Redes,16,Maestria
+D0626,Ingenieria de Software,14,Bachiller
+D0627,Bases de Datos,16,Doctorado
+D0628,Seguridad,10,Doctorado
+D0629,Redes,14,Titulado
+D0630,Programacion,10,Doctorado
+D0631,Ingenieria de Software,12,Doctorado
+D0632,Ingenieria de Software,12,Doctorado
+D0633,Bases de Datos,14,Maestria
+D0634,Bases de Datos,10,Doctorado
+D0635,Bases de Datos,14,Maestria
+D0636,IA,12,Maestria
+D0637,Redes,14,Bachiller
+D0638,Bases de Datos,12,Bachiller
+D0639,Bases de Datos,12,Bachiller
+D0640,Bases de Datos,16,Doctorado
+D0641,Seguridad,10,Doctorado
+D0642,Programacion,12,Bachiller
+D0643,Seguridad,14,Maestria
+D0644,Redes,16,Doctorado
+D0645,Bases de Datos,10,Doctorado
+D0646,Ingenieria de Software,10,Bachiller
+D0647,Ingenieria de Software,12,Titulado
+D0648,Programacion,10,Bachiller
+D0649,Bases de Datos,16,Titulado
+D0650,IA,12,Bachiller
+D0651,Bases de Datos,12,Bachiller
+D0652,Bases de Datos,10,Maestria
+D0653,Programacion,10,Doctorado
+D0654,Ingenieria de Software,16,Doctorado
+D0655,Seguridad,14,Maestria
+D0656,Redes,12,Bachiller
+D0657,Bases de Datos,16,Titulado
+D0658,Seguridad,10,Titulado
+D0659,Redes,10,Bachiller
+D0660,Redes,14,Maestria
+D0661,Bases de Datos,10,Titulado
+D0662,Programacion,12,Doctorado
+D0663,Ingenieria de Software,12,Maestria
+D0664,IA,14,Bachiller
+D0665,Ingenieria de Software,12,Titulado
+D0666,Bases de Datos,12,Doctorado
+D0667,Programacion,12,Maestria
+D0668,Seguridad,12,Doctorado
+D0669,Redes,14,Doctorado
+D0670,IA,16,Doctorado
+D0671,Bases de Datos,16,Maestria
+D0672,Ingenieria de Software,14,Maestria
+D0673,Ingenieria de Software,14,Maestria
+D0674,IA,12,Titulado
+D0675,Ingenieria de Software,10,Titulado
+D0676,Ingenieria de Software,16,Bachiller
+D0677,Seguridad,16,Doctorado
+D0678,Seguridad,14,Maestria
+D0679,Redes,14,Bachiller
+D0680,Programacion,10,Titulado
+D0681,Seguridad,10,Titulado
+D0682,Redes,16,Bachiller
+D0683,Seguridad,12,Doctorado
+D0684,Redes,12,Titulado
+D0685,Bases de Datos,14,Bachiller
+D0686,Redes,10,Titulado
+D0687,Bases de Datos,10,Bachiller
+D0688,Redes,16,Doctorado
+D0689,Redes,14,Titulado
+D0690,Redes,14,Maestria
+D0691,Seguridad,16,Doctorado
+D0692,IA,10,Doctorado
+D0693,Bases de Datos,12,Titulado
+D0694,Programacion,16,Bachiller
+D0695,IA,12,Titulado
+D0696,IA,14,Doctorado
+D0697,IA,10,Bachiller
+D0698,IA,12,Maestria
+D0699,IA,12,Maestria
+D0700,Ingenieria de Software,14,Doctorado
+D0701,Bases de Datos,14,Bachiller
+D0702,Redes,14,Titulado
+D0703,Bases de Datos,16,Bachiller
+D0704,IA,16,Bachiller
+D0705,Redes,10,Titulado
+D0706,IA,12,Maestria
+D0707,Redes,14,Maestria
+D0708,Ingenieria de Software,10,Titulado
+D0709,Bases de Datos,10,Maestria
+D0710,Redes,12,Titulado
+D0711,Bases de Datos,10,Bachiller
+D0712,IA,16,Bachiller
+D0713,Redes,12,Maestria
+D0714,Seguridad,16,Bachiller
+D0715,Bases de Datos,10,Doctorado
+D0716,IA,10,Doctorado
+D0717,IA,10,Maestria
+D0718,Seguridad,16,Titulado
+D0719,IA,12,Titulado
+D0720,Ingenieria de Software,10,Titulado
+D0721,Seguridad,16,Bachiller
+D0722,Seguridad,14,Maestria
+D0723,Seguridad,12,Maestria
+D0724,IA,12,Maestria
+D0725,Bases de Datos,14,Bachiller
+D0726,Seguridad,10,Titulado
+D0727,Seguridad,16,Doctorado
+D0728,Ingenieria de Software,14,Doctorado
+D0729,IA,16,Doctorado
+D0730,Seguridad,12,Titulado
+D0731,Bases de Datos,12,Doctorado
+D0732,Redes,12,Doctorado
+D0733,IA,14,Doctorado
+D0734,Programacion,12,Bachiller
+D0735,Programacion,14,Titulado
+D0736,IA,10,Titulado
+D0737,Programacion,10,Maestria
+D0738,IA,12,Bachiller
+D0739,Bases de Datos,14,Doctorado
+D0740,IA,12,Maestria
+D0741,Programacion,16,Titulado
+D0742,Redes,12,Doctorado
+D0743,Ingenieria de Software,16,Maestria
+D0744,IA,10,Titulado
+D0745,Bases de Datos,12,Doctorado
+D0746,Redes,14,Maestria
+D0747,Ingenieria de Software,14,Titulado
+D0748,Seguridad,12,Maestria
+D0749,Redes,12,Doctorado
+D0750,Ingenieria de Software,16,Maestria
+D0751,Seguridad,10,Maestria
+D0752,Programacion,14,Bachiller
+D0753,Programacion,16,Titulado
+D0754,IA,12,Bachiller
+D0755,Seguridad,10,Doctorado
+D0756,Seguridad,16,Maestria
+D0757,Seguridad,14,Maestria
+D0758,IA,16,Doctorado
+D0759,Ingenieria de Software,12,Titulado
+D0760,Bases de Datos,10,Titulado
+D0761,Programacion,12,Bachiller
+D0762,Redes,12,Doctorado
+D0763,Programacion,12,Doctorado
+D0764,Bases de Datos,16,Doctorado
+D0765,Ingenieria de Software,10,Doctorado
+D0766,Ingenieria de Software,16,Maestria
+D0767,Ingenieria de Software,12,Bachiller
+D0768,Redes,14,Doctorado
+D0769,Redes,10,Titulado
+D0770,Seguridad,16,Maestria
+D0771,Redes,16,Titulado
+D0772,IA,14,Bachiller
+D0773,Bases de Datos,16,Doctorado
+D0774,Programacion,16,Doctorado
+D0775,Bases de Datos,12,Maestria
+D0776,Seguridad,16,Maestria
+D0777,Seguridad,16,Titulado
+D0778,Programacion,16,Maestria
+D0779,IA,14,Bachiller
+D0780,Programacion,12,Doctorado
+D0781,Programacion,16,Maestria
+D0782,Ingenieria de Software,10,Bachiller
+D0783,Redes,14,Titulado
+D0784,Ingenieria de Software,12,Bachiller
+D0785,IA,10,Doctorado
+D0786,Programacion,12,Bachiller
+D0787,Bases de Datos,14,Doctorado
+D0788,Bases de Datos,14,Bachiller
+D0789,Seguridad,12,Bachiller
+D0790,Programacion,10,Titulado
+D0791,IA,16,Doctorado
+D0792,Bases de Datos,12,Bachiller
+D0793,IA,12,Titulado
+D0794,Redes,12,Doctorado
+D0795,Programacion,12,Doctorado
+D0796,Programacion,10,Doctorado
+D0797,Ingenieria de Software,10,Titulado
+D0798,IA,16,Titulado
+D0799,Redes,10,Bachiller
+D0800,Programacion,16,Titulado
+D0801,Programacion,14,Doctorado
+D0802,Bases de Datos,14,Maestria
+D0803,Ingenieria de Software,16,Titulado
+D0804,Redes,12,Titulado
+D0805,Redes,16,Bachiller
+D0806,Programacion,12,Titulado
+D0807,Programacion,16,Bachiller
+D0808,IA,14,Doctorado
+D0809,Seguridad,14,Maestria
+D0810,Seguridad,12,Maestria
+D0811,Redes,10,Bachiller
+D0812,Bases de Datos,10,Doctorado
+D0813,Ingenieria de Software,16,Bachiller
+D0814,Ingenieria de Software,16,Maestria
+D0815,Redes,14,Doctorado
+D0816,Programacion,12,Titulado
+D0817,Bases de Datos,10,Titulado
+D0818,IA,16,Doctorado
+D0819,IA,14,Bachiller
+D0820,Seguridad,16,Maestria
+D0821,Redes,14,Titulado
+D0822,Bases de Datos,10,Titulado
+D0823,Seguridad,14,Titulado
+D0824,Redes,16,Maestria
+D0825,Programacion,16,Bachiller
+D0826,Redes,14,Titulado
+D0827,IA,16,Maestria
+D0828,Bases de Datos,12,Titulado
+D0829,IA,16,Maestria
+D0830,Bases de Datos,12,Doctorado
+D0831,Redes,10,Maestria
+D0832,Redes,10,Doctorado
+D0833,IA,14,Bachiller
+D0834,Programacion,14,Bachiller
+D0835,Ingenieria de Software,16,Doctorado
+D0836,Bases de Datos,14,Maestria
+D0837,Redes,12,Maestria
+D0838,Ingenieria de Software,12,Doctorado
+D0839,Bases de Datos,14,Titulado
+D0840,Seguridad,16,Doctorado
+D0841,Ingenieria de Software,12,Titulado
+D0842,Seguridad,10,Titulado
+D0843,Ingenieria de Software,12,Maestria
+D0844,Seguridad,14,Titulado
+D0845,Redes,14,Titulado
+D0846,Ingenieria de Software,14,Doctorado
+D0847,IA,16,Doctorado
+D0848,Redes,16,Bachiller
+D0849,Programacion,10,Titulado
+D0850,Ingenieria de Software,10,Maestria
+D0851,Seguridad,14,Titulado
+D0852,Seguridad,16,Bachiller
+D0853,Bases de Datos,10,Maestria
+D0854,Ingenieria de Software,16,Doctorado
+D0855,Ingenieria de Software,10,Bachiller
+D0856,Bases de Datos,12,Doctorado
+D0857,Bases de Datos,10,Doctorado
+D0858,Redes,10,Bachiller
+D0859,IA,16,Titulado
+D0860,Programacion,14,Doctorado
+D0861,IA,12,Maestria
+D0862,Seguridad,12,Maestria
+D0863,Ingenieria de Software,16,Bachiller
+D0864,Ingenieria de Software,16,Doctorado
+D0865,IA,12,Bachiller
+D0866,Redes,10,Maestria
+D0867,IA,12,Bachiller
+D0868,Programacion,16,Maestria
+D0869,Programacion,16,Maestria
+D0870,Redes,14,Maestria
+D0871,Ingenieria de Software,10,Doctorado
+D0872,IA,14,Doctorado
+D0873,Redes,12,Bachiller
+D0874,Ingenieria de Software,14,Bachiller
+D0875,Ingenieria de Software,14,Maestria
+D0876,Bases de Datos,10,Bachiller
+D0877,Seguridad,12,Titulado
+D0878,IA,14,Doctorado
+D0879,Redes,14,Titulado
+D0880,Programacion,10,Titulado
+D0881,Seguridad,16,Doctorado
+D0882,Seguridad,16,Doctorado
+D0883,IA,14,Doctorado
+D0884,IA,10,Maestria
+D0885,Programacion,12,Titulado
+D0886,Programacion,10,Bachiller
+D0887,Bases de Datos,14,Bachiller
+D0888,Redes,12,Bachiller
+D0889,Programacion,10,Titulado
+D0890,Ingenieria de Software,14,Doctorado
+D0891,Seguridad,10,Bachiller
+D0892,Redes,12,Titulado
+D0893,Programacion,14,Doctorado
+D0894,Bases de Datos,10,Bachiller
+D0895,Bases de Datos,12,Titulado
+D0896,Programacion,14,Titulado
+D0897,Redes,14,Maestria
+D0898,IA,16,Doctorado
+D0899,Ingenieria de Software,10,Maestria
+D0900,Ingenieria de Software,12,Doctorado
+D0901,Bases de Datos,14,Doctorado
+D0902,Ingenieria de Software,16,Bachiller
+D0903,IA,14,Bachiller
+D0904,Seguridad,12,Maestria
+D0905,Programacion,12,Bachiller
+D0906,Redes,16,Bachiller
+D0907,Bases de Datos,10,Titulado
+D0908,Bases de Datos,16,Doctorado
+D0909,Programacion,10,Bachiller
+D0910,Programacion,12,Doctorado
+D0911,Redes,10,Bachiller
+D0912,Redes,14,Titulado
+D0913,IA,14,Maestria
+D0914,IA,12,Doctorado
+D0915,Redes,10,Bachiller
+D0916,IA,12,Titulado
+D0917,IA,16,Doctorado
+D0918,Programacion,12,Doctorado
+D0919,Seguridad,12,Titulado
+D0920,Ingenieria de Software,12,Maestria
+D0921,Seguridad,12,Doctorado
+D0922,Redes,12,Doctorado
+D0923,Redes,12,Doctorado
+D0924,Bases de Datos,14,Bachiller
+D0925,IA,10,Titulado
+D0926,Bases de Datos,16,Doctorado
+D0927,Programacion,16,Bachiller
+D0928,Programacion,12,Titulado
+D0929,Programacion,10,Bachiller
+D0930,Bases de Datos,14,Titulado
+D0931,Bases de Datos,16,Bachiller
+D0932,Redes,14,Titulado
+D0933,IA,16,Maestria
+D0934,Seguridad,14,Doctorado
+D0935,Seguridad,16,Doctorado
+D0936,Seguridad,12,Maestria
+D0937,IA,12,Doctorado
+D0938,IA,16,Bachiller
+D0939,Ingenieria de Software,16,Titulado
+D0940,Redes,12,Bachiller
+D0941,Seguridad,12,Doctorado
+D0942,Seguridad,14,Bachiller
+D0943,Seguridad,10,Doctorado
+D0944,IA,10,Titulado
+D0945,Redes,10,Doctorado
+D0946,Seguridad,14,Maestria
+D0947,IA,14,Bachiller
+D0948,Ingenieria de Software,12,Titulado
+D0949,Redes,10,Bachiller
+D0950,IA,14,Maestria
+D0951,Ingenieria de Software,16,Maestria
+D0952,Ingenieria de Software,10,Maestria
+D0953,Bases de Datos,14,Maestria
+D0954,Redes,16,Titulado
+D0955,Ingenieria de Software,14,Titulado
+D0956,Seguridad,12,Doctorado
+D0957,Redes,16,Titulado
+D0958,Bases de Datos,10,Titulado
+D0959,Seguridad,10,Doctorado
+D0960,Redes,10,Maestria
+D0961,Programacion,10,Titulado
+D0962,Programacion,16,Titulado
+D0963,IA,12,Maestria
+D0964,Programacion,10,Doctorado
+D0965,Bases de Datos,12,Titulado
+D0966,Redes,14,Bachiller
+D0967,Programacion,10,Doctorado
+D0968,Ingenieria de Software,16,Doctorado
+D0969,Programacion,10,Maestria
+D0970,IA,10,Doctorado
+D0971,IA,14,Doctorado
+D0972,Seguridad,10,Doctorado
+D0973,Bases de Datos,10,Bachiller
+D0974,Seguridad,16,Doctorado
+D0975,Redes,12,Doctorado
+D0976,Ingenieria de Software,14,Doctorado
+D0977,Redes,16,Doctorado
+D0978,Ingenieria de Software,10,Bachiller
+D0979,IA,10,Maestria
+D0980,Programacion,10,Doctorado
+D0981,Seguridad,12,Titulado
+D0982,Programacion,12,Maestria
+D0983,Programacion,16,Doctorado
+D0984,Redes,16,Titulado
+D0985,Ingenieria de Software,16,Maestria
+D0986,Seguridad,16,Titulado
+D0987,IA,16,Doctorado
+D0988,Redes,16,Maestria
+D0989,Seguridad,16,Doctorado
+D0990,Bases de Datos,14,Bachiller
+D0991,Redes,16,Maestria
+D0992,Redes,12,Bachiller
+D0993,Bases de Datos,16,Bachiller
+D0994,Ingenieria de Software,14,Bachiller
+D0995,Seguridad,16,Doctorado
+D0996,IA,16,Titulado
+D0997,Programacion,12,Titulado
+D0998,Bases de Datos,16,Doctorado
+D0999,IA,10,Maestria
+D1000,Programacion,12,Bachiller
+D1001,Bases de Datos,10,Titulado
+D1002,Redes,14,Maestria
+D1003,Seguridad,12,Bachiller
+D1004,Redes,12,Maestria
+D1005,Programacion,14,Maestria
+D1006,Bases de Datos,12,Maestria
+D1007,Programacion,14,Doctorado
+D1008,IA,10,Titulado
+D1009,IA,12,Bachiller
+D1010,Ingenieria de Software,10,Bachiller
+D1011,Bases de Datos,10,Titulado
+D1012,Ingenieria de Software,10,Titulado
+D1013,Redes,16,Doctorado
+D1014,Programacion,16,Titulado
+D1015,Bases de Datos,14,Doctorado
+D1016,Seguridad,14,Titulado
+D1017,Redes,12,Maestria
+D1018,Programacion,12,Bachiller
+D1019,Seguridad,14,Doctorado
+D1020,Seguridad,14,Titulado
+D1021,Programacion,14,Maestria
+D1022,Redes,12,Bachiller
+D1023,Redes,14,Maestria
+D1024,Redes,16,Titulado
+D1025,IA,16,Bachiller
+D1026,Seguridad,16,Bachiller
+D1027,IA,12,Doctorado
+D1028,Bases de Datos,14,Doctorado
+D1029,Ingenieria de Software,10,Doctorado
+D1030,Ingenieria de Software,10,Doctorado
+D1031,IA,10,Maestria
+D1032,Seguridad,12,Maestria
+D1033,Ingenieria de Software,16,Doctorado
+D1034,Ingenieria de Software,16,Doctorado
+D1035,Ingenieria de Software,14,Maestria
+D1036,Seguridad,16,Maestria
+D1037,Programacion,12,Bachiller
+D1038,Bases de Datos,16,Maestria
+D1039,Programacion,10,Doctorado
+D1040,IA,12,Maestria
+D1041,Ingenieria de Software,12,Doctorado
+D1042,Ingenieria de Software,12,Bachiller
+D1043,Ingenieria de Software,12,Titulado
+D1044,Seguridad,14,Bachiller
+D1045,Redes,14,Bachiller
+D1046,IA,16,Bachiller
+D1047,IA,12,Bachiller
+D1048,Bases de Datos,16,Bachiller
+D1049,Redes,14,Maestria
+D1050,Redes,14,Bachiller
+D1051,Seguridad,10,Doctorado
+D1052,Ingenieria de Software,12,Titulado
+D1053,Ingenieria de Software,16,Doctorado
+D1054,Redes,10,Doctorado
+D1055,Programacion,10,Titulado
+D1056,Bases de Datos,12,Bachiller
+D1057,Ingenieria de Software,14,Doctorado
+D1058,IA,10,Titulado
+D1059,Bases de Datos,14,Bachiller
+D1060,Redes,14,Bachiller
+D1061,Redes,12,Titulado
+D1062,IA,12,Doctorado
+D1063,Redes,16,Bachiller
+D1064,Redes,12,Maestria
+D1065,Bases de Datos,10,Doctorado
+D1066,Ingenieria de Software,14,Maestria
+D1067,Bases de Datos,14,Bachiller
+D1068,Seguridad,12,Maestria
+D1069,Seguridad,12,Maestria
+D1070,Programacion,14,Maestria
+D1071,IA,12,Bachiller
+D1072,Bases de Datos,10,Maestria
+D1073,Bases de Datos,16,Doctorado
+D1074,Seguridad,14,Bachiller
+D1075,Seguridad,16,Maestria
+D1076,Redes,14,Bachiller
+D1077,Programacion,16,Bachiller
+D1078,Programacion,10,Titulado
+D1079,Bases de Datos,14,Bachiller
+D1080,Programacion,12,Bachiller
+D1081,IA,10,Doctorado
+D1082,Ingenieria de Software,12,Doctorado
+D1083,IA,10,Maestria
+D1084,IA,12,Titulado
+D1085,Programacion,12,Bachiller
+D1086,IA,14,Bachiller
+D1087,Seguridad,10,Titulado
+D1088,Bases de Datos,10,Bachiller
+D1089,Bases de Datos,10,Maestria
+D1090,Programacion,14,Maestria
+D1091,Redes,14,Bachiller
+D1092,Bases de Datos,12,Doctorado
+D1093,Ingenieria de Software,10,Titulado
+D1094,IA,10,Titulado
+D1095,Ingenieria de Software,10,Bachiller
+D1096,Programacion,16,Maestria
+D1097,Bases de Datos,10,Bachiller
+D1098,Redes,14,Doctorado
+D1099,IA,16,Doctorado
+D1100,IA,16,Maestria
+D1101,Bases de Datos,10,Bachiller
+D1102,Bases de Datos,16,Doctorado
+D1103,Ingenieria de Software,10,Doctorado
+D1104,Ingenieria de Software,16,Bachiller
+D1105,Programacion,14,Maestria
+D1106,IA,10,Doctorado
+D1107,Seguridad,14,Titulado
+D1108,Ingenieria de Software,16,Bachiller
+D1109,IA,10,Doctorado
+D1110,Bases de Datos,14,Titulado
+D1111,Seguridad,16,Titulado
+D1112,Seguridad,16,Doctorado
+D1113,Ingenieria de Software,12,Doctorado
+D1114,Bases de Datos,12,Bachiller
+D1115,IA,16,Doctorado
+D1116,Programacion,12,Doctorado
+D1117,Seguridad,14,Maestria
+D1118,Seguridad,16,Maestria
+D1119,Redes,12,Titulado
+D1120,IA,12,Bachiller
+D1121,Redes,16,Maestria
+D1122,Programacion,14,Maestria
+D1123,Programacion,14,Doctorado
+D1124,Ingenieria de Software,10,Maestria
+D1125,Bases de Datos,14,Bachiller
+D1126,Programacion,10,Maestria
+D1127,Redes,14,Maestria
+D1128,Ingenieria de Software,12,Bachiller
+D1129,Ingenieria de Software,16,Titulado
+D1130,Seguridad,16,Titulado
+D1131,Programacion,16,Bachiller
+D1132,IA,10,Titulado
+D1133,Programacion,10,Bachiller
+D1134,IA,12,Maestria
+D1135,Bases de Datos,12,Titulado
+D1136,Ingenieria de Software,12,Doctorado
+D1137,Programacion,10,Titulado
+D1138,IA,12,Maestria
+D1139,Redes,10,Maestria
+D1140,Ingenieria de Software,10,Maestria
+D1141,Seguridad,14,Bachiller
+D1142,IA,16,Doctorado
+D1143,Bases de Datos,10,Titulado
+D1144,Programacion,16,Maestria
+D1145,Ingenieria de Software,10,Doctorado
+D1146,Redes,10,Maestria
+D1147,Bases de Datos,10,Titulado
+D1148,IA,16,Doctorado
+D1149,IA,14,Titulado
+D1150,Programacion,16,Titulado
+D1151,Redes,16,Bachiller
+D1152,Ingenieria de Software,14,Maestria
+D1153,Ingenieria de Software,12,Doctorado
+D1154,Ingenieria de Software,14,Titulado
+D1155,Bases de Datos,12,Maestria
+D1156,Redes,16,Maestria
+D1157,Bases de Datos,10,Bachiller
+D1158,Redes,12,Maestria
+D1159,Programacion,12,Titulado
+D1160,Ingenieria de Software,10,Doctorado
+D1161,Redes,16,Maestria
+D1162,IA,12,Doctorado
+D1163,Programacion,12,Doctorado
+D1164,IA,12,Maestria
+D1165,Redes,10,Titulado
+D1166,Programacion,14,Doctorado
+D1167,Seguridad,10,Bachiller
+D1168,IA,12,Maestria
+D1169,Redes,16,Titulado
+D1170,Redes,12,Doctorado
+D1171,Redes,16,Titulado
+D1172,Ingenieria de Software,10,Doctorado
+D1173,Programacion,16,Doctorado
+D1174,Redes,14,Bachiller
+D1175,Ingenieria de Software,14,Doctorado
+D1176,Programacion,12,Maestria
+D1177,IA,14,Titulado
+D1178,IA,14,Bachiller
+D1179,Bases de Datos,10,Maestria
+D1180,Ingenieria de Software,12,Bachiller
+D1181,Ingenieria de Software,16,Maestria
+D1182,IA,16,Bachiller
+D1183,Programacion,12,Doctorado
+D1184,IA,10,Maestria
+D1185,Programacion,14,Doctorado
+D1186,IA,14,Maestria
+D1187,Ingenieria de Software,12,Bachiller
+D1188,IA,10,Doctorado
+D1189,Redes,10,Maestria
+D1190,Ingenieria de Software,14,Titulado
+D1191,Bases de Datos,12,Doctorado
+D1192,Redes,10,Maestria
+D1193,Redes,10,Doctorado
+D1194,Seguridad,12,Doctorado
+D1195,Programacion,10,Maestria
+D1196,Ingenieria de Software,14,Titulado
+D1197,Redes,14,Titulado
+D1198,Bases de Datos,10,Doctorado
+D1199,Seguridad,10,Bachiller
+D1200,IA,14,Maestria
+D1201,Bases de Datos,10,Doctorado
+D1202,Redes,16,Bachiller
+D1203,IA,12,Titulado
+D1204,IA,16,Titulado
+D1205,Bases de Datos,16,Maestria
+D1206,IA,10,Maestria
+D1207,Ingenieria de Software,10,Doctorado
+D1208,IA,14,Titulado
+D1209,Redes,12,Titulado
+D1210,Bases de Datos,14,Bachiller
+D1211,Seguridad,10,Maestria
+D1212,Redes,14,Bachiller
+D1213,Programacion,12,Titulado
+D1214,Bases de Datos,14,Titulado
+D1215,Seguridad,12,Doctorado
+D1216,Seguridad,16,Maestria
+D1217,Redes,16,Maestria
+D1218,Bases de Datos,10,Bachiller
+D1219,IA,14,Titulado
+D1220,Ingenieria de Software,16,Maestria
+D1221,Bases de Datos,12,Doctorado
+D1222,Seguridad,10,Doctorado
+D1223,Bases de Datos,16,Bachiller
+D1224,Ingenieria de Software,10,Titulado
+D1225,Bases de Datos,16,Maestria
+D1226,Redes,12,Bachiller
+D1227,IA,14,Titulado
+D1228,Bases de Datos,10,Doctorado
+D1229,Ingenieria de Software,10,Bachiller
+D1230,Seguridad,12,Maestria
+D1231,Programacion,14,Doctorado
+D1232,Ingenieria de Software,12,Bachiller
+D1233,Redes,10,Titulado
+D1234,Seguridad,10,Titulado
+D1235,IA,16,Doctorado
+D1236,Bases de Datos,10,Bachiller
+D1237,IA,10,Maestria
+D1238,Bases de Datos,16,Doctorado
+D1239,Programacion,14,Titulado
+D1240,Ingenieria de Software,14,Titulado
+D1241,Ingenieria de Software,16,Bachiller
+D1242,Seguridad,10,Titulado
+D1243,Bases de Datos,10,Bachiller
+D1244,Programacion,16,Titulado
+D1245,IA,10,Doctorado
+D1246,Ingenieria de Software,16,Doctorado
+D1247,Programacion,10,Maestria
+D1248,Seguridad,16,Maestria
+D1249,Ingenieria de Software,12,Doctorado
+D1250,Ingenieria de Software,10,Doctorado
+D1251,Ingenieria de Software,12,Maestria
+D1252,Programacion,10,Titulado
+D1253,Redes,14,Titulado
+D1254,Redes,16,Bachiller
+D1255,Bases de Datos,14,Doctorado
+D1256,Programacion,10,Titulado
+D1257,IA,16,Doctorado
+D1258,IA,12,Bachiller
+D1259,Seguridad,12,Doctorado
+D1260,Programacion,10,Doctorado
+D1261,Seguridad,10,Bachiller
+D1262,Redes,12,Doctorado
+D1263,Ingenieria de Software,12,Bachiller
+D1264,Ingenieria de Software,12,Maestria
+D1265,Programacion,10,Doctorado
+D1266,Programacion,10,Titulado
+D1267,Bases de Datos,10,Doctorado
+D1268,IA,12,Titulado
+D1269,Ingenieria de Software,10,Maestria
+D1270,IA,16,Bachiller
+D1271,Redes,10,Maestria
+D1272,Bases de Datos,12,Titulado
+D1273,Redes,12,Titulado
+D1274,Redes,12,Titulado
+D1275,Bases de Datos,14,Maestria
+D1276,Bases de Datos,10,Maestria
+D1277,Redes,12,Doctorado
+D1278,Seguridad,10,Bachiller
+D1279,Seguridad,10,Maestria
+D1280,Programacion,10,Maestria
+D1281,Redes,16,Doctorado
+D1282,Redes,16,Titulado
+D1283,Redes,16,Bachiller
+D1284,Seguridad,14,Doctorado
+D1285,Seguridad,14,Doctorado
+D1286,Redes,10,Titulado
+D1287,IA,10,Bachiller
+D1288,Redes,14,Maestria
+D1289,Programacion,12,Titulado
+D1290,Bases de Datos,16,Titulado
+D1291,Ingenieria de Software,10,Bachiller
+D1292,Programacion,10,Bachiller
+D1293,Programacion,10,Doctorado
+D1294,Seguridad,10,Doctorado
+D1295,Redes,10,Doctorado
+D1296,Bases de Datos,10,Doctorado
+D1297,Programacion,14,Doctorado
+D1298,Programacion,12,Maestria
+D1299,Seguridad,16,Bachiller
+D1300,Redes,14,Doctorado
+D1301,Bases de Datos,14,Doctorado
+D1302,IA,12,Maestria
+D1303,IA,12,Doctorado
+D1304,Redes,12,Maestria
+D1305,Seguridad,16,Bachiller
+D1306,Seguridad,14,Maestria
+D1307,Seguridad,12,Maestria
+D1308,Redes,12,Doctorado
+D1309,Seguridad,14,Titulado
+D1310,Ingenieria de Software,10,Bachiller
+D1311,Seguridad,12,Maestria
+D1312,Seguridad,16,Bachiller
+D1313,Ingenieria de Software,16,Doctorado
+D1314,Bases de Datos,14,Doctorado
+D1315,IA,10,Maestria
+D1316,IA,12,Maestria
+D1317,Programacion,12,Doctorado
+D1318,Bases de Datos,16,Titulado
+D1319,IA,10,Doctorado
+D1320,Redes,16,Doctorado
+D1321,Ingenieria de Software,16,Doctorado
+D1322,Ingenieria de Software,16,Doctorado
+D1323,Programacion,16,Maestria
+D1324,Bases de Datos,14,Maestria
+D1325,Bases de Datos,12,Bachiller
+D1326,Ingenieria de Software,14,Doctorado
+D1327,Bases de Datos,14,Maestria
+D1328,Seguridad,16,Doctorado
+D1329,Bases de Datos,14,Titulado
+D1330,Programacion,14,Bachiller
+D1331,IA,16,Titulado
+D1332,Programacion,10,Bachiller
+D1333,IA,16,Bachiller
+D1334,Bases de Datos,10,Bachiller
+D1335,Redes,14,Bachiller
+D1336,Redes,10,Bachiller
+D1337,Ingenieria de Software,10,Bachiller
+D1338,Redes,12,Titulado
+D1339,Programacion,14,Doctorado
+D1340,Redes,16,Bachiller
+D1341,Bases de Datos,10,Bachiller
+D1342,Bases de Datos,10,Titulado
+D1343,IA,14,Doctorado
+D1344,Redes,12,Bachiller
+D1345,IA,12,Titulado
+D1346,IA,12,Titulado
+D1347,IA,12,Doctorado
+D1348,Seguridad,16,Bachiller
+D1349,Programacion,12,Bachiller
+D1350,Programacion,16,Maestria
+D1351,Redes,16,Doctorado
+D1352,Programacion,10,Doctorado
+D1353,IA,12,Titulado
+D1354,Bases de Datos,12,Maestria
+D1355,Programacion,14,Bachiller
+D1356,Redes,12,Maestria
+D1357,Redes,10,Maestria
+D1358,Seguridad,14,Maestria
+D1359,Programacion,12,Titulado
+D1360,IA,12,Titulado
+D1361,Ingenieria de Software,16,Bachiller
+D1362,IA,14,Doctorado
+D1363,Redes,10,Titulado
+D1364,Redes,16,Titulado
+D1365,Bases de Datos,12,Doctorado
+D1366,Programacion,16,Bachiller
+D1367,Ingenieria de Software,16,Titulado
+D1368,Bases de Datos,16,Doctorado
+D1369,Seguridad,12,Bachiller
+D1370,Bases de Datos,16,Titulado
+D1371,IA,10,Maestria
+D1372,Programacion,16,Maestria
+D1373,Programacion,12,Titulado
+D1374,Ingenieria de Software,16,Titulado
+D1375,IA,10,Doctorado
+D1376,Bases de Datos,16,Bachiller
+D1377,Redes,12,Doctorado
+D1378,IA,10,Maestria
+D1379,Seguridad,12,Doctorado
+D1380,Redes,10,Bachiller
+D1381,Seguridad,16,Bachiller
+D1382,Programacion,10,Titulado
+D1383,IA,10,Maestria
+D1384,Seguridad,14,Titulado
+D1385,Seguridad,10,Titulado
+D1386,Programacion,10,Bachiller
+D1387,Ingenieria de Software,10,Bachiller
+D1388,Redes,10,Maestria
+D1389,Seguridad,12,Bachiller
+D1390,IA,12,Bachiller
+D1391,Redes,16,Doctorado
+D1392,Bases de Datos,16,Maestria
+D1393,Bases de Datos,16,Bachiller
+D1394,Ingenieria de Software,12,Maestria
+D1395,Seguridad,16,Bachiller
+D1396,Redes,14,Maestria
+D1397,Ingenieria de Software,12,Titulado
+D1398,Programacion,12,Maestria
+D1399,Redes,14,Bachiller
+D1400,IA,16,Bachiller
+D1401,Redes,16,Maestria
+D1402,Redes,16,Maestria
+D1403,Ingenieria de Software,12,Titulado
+D1404,Ingenieria de Software,14,Titulado
+D1405,Redes,14,Maestria
+D1406,Ingenieria de Software,14,Titulado
+D1407,Bases de Datos,10,Titulado
+D1408,Seguridad,10,Doctorado
+D1409,Bases de Datos,14,Doctorado
+D1410,Ingenieria de Software,10,Titulado
+D1411,Seguridad,14,Doctorado
+D1412,Bases de Datos,12,Doctorado
+D1413,Seguridad,14,Titulado
+D1414,Seguridad,10,Maestria
+D1415,Seguridad,14,Maestria
+D1416,Ingenieria de Software,10,Titulado
+D1417,Ingenieria de Software,10,Doctorado
+D1418,Programacion,14,Doctorado
+D1419,Ingenieria de Software,12,Doctorado
+D1420,Programacion,14,Maestria
+D1421,Ingenieria de Software,14,Maestria
+D1422,Ingenieria de Software,16,Doctorado
+D1423,Seguridad,10,Bachiller
+D1424,Bases de Datos,12,Bachiller
+D1425,IA,12,Maestria
+D1426,IA,12,Doctorado
+D1427,Ingenieria de Software,16,Doctorado
+D1428,Redes,14,Maestria
+D1429,Ingenieria de Software,14,Doctorado
+D1430,Ingenieria de Software,14,Bachiller
+D1431,IA,14,Bachiller
+D1432,IA,16,Maestria
+D1433,Programacion,14,Bachiller
+D1434,Redes,12,Bachiller
+D1435,Seguridad,14,Maestria
+D1436,Ingenieria de Software,14,Titulado
+D1437,Bases de Datos,12,Titulado
+D1438,IA,14,Titulado
+D1439,Ingenieria de Software,10,Titulado
+D1440,Bases de Datos,14,Doctorado
+D1441,Programacion,16,Titulado
+D1442,Ingenieria de Software,14,Doctorado
+D1443,Seguridad,12,Bachiller
+D1444,Programacion,12,Bachiller
+D1445,Bases de Datos,12,Bachiller
+D1446,Ingenieria de Software,12,Titulado
+D1447,Seguridad,16,Maestria
+D1448,Bases de Datos,16,Titulado
+D1449,Seguridad,10,Doctorado
+D1450,IA,16,Maestria
+D1451,Bases de Datos,16,Titulado
+D1452,Redes,16,Maestria
+D1453,Ingenieria de Software,10,Bachiller
+D1454,Ingenieria de Software,12,Bachiller
+D1455,IA,12,Doctorado
+D1456,Bases de Datos,12,Bachiller
+D1457,IA,10,Doctorado
+D1458,IA,12,Doctorado
+D1459,Redes,16,Maestria
+D1460,Seguridad,12,Doctorado
+D1461,Seguridad,14,Maestria
+D1462,Programacion,16,Bachiller
+D1463,Redes,12,Doctorado
+D1464,Redes,10,Maestria
+D1465,Redes,10,Titulado
+D1466,Programacion,10,Bachiller
+D1467,Ingenieria de Software,10,Maestria
+D1468,IA,10,Bachiller
+D1469,Ingenieria de Software,12,Titulado
+D1470,Seguridad,16,Titulado
+D1471,Programacion,12,Maestria
+D1472,Seguridad,16,Bachiller
+D1473,Redes,16,Maestria
+D1474,Programacion,12,Doctorado
+D1475,Seguridad,14,Titulado
+D1476,IA,10,Bachiller
+D1477,Bases de Datos,10,Doctorado
+D1478,Bases de Datos,14,Bachiller
+D1479,IA,12,Bachiller
+D1480,Redes,10,Doctorado
+D1481,IA,16,Bachiller
+D1482,Redes,16,Titulado
+D1483,Programacion,12,Bachiller
+D1484,Redes,12,Titulado
+D1485,Bases de Datos,12,Doctorado
+D1486,Programacion,12,Doctorado
+D1487,Redes,14,Titulado
+D1488,Programacion,14,Doctorado
+D1489,IA,10,Bachiller
+D1490,Programacion,10,Bachiller
+D1491,Programacion,16,Doctorado
+D1492,Ingenieria de Software,12,Maestria
+D1493,Bases de Datos,12,Maestria
+D1494,Redes,16,Titulado
+D1495,Programacion,10,Titulado
+D1496,IA,16,Bachiller
+D1497,Ingenieria de Software,14,Bachiller
+D1498,Ingenieria de Software,16,Doctorado
+D1499,Seguridad,10,Doctorado
+D1500,IA,12,Titulado
+D1501,IA,14,Doctorado
+D1502,IA,12,Doctorado
+D1503,Ingenieria de Software,10,Titulado
+D1504,Bases de Datos,14,Maestria
+D1505,Seguridad,10,Maestria
+D1506,Ingenieria de Software,10,Maestria
+D1507,Programacion,10,Bachiller
+D1508,Seguridad,16,Titulado
+D1509,Redes,14,Titulado
+D1510,Programacion,12,Bachiller
+D1511,Seguridad,10,Maestria
+D1512,Seguridad,12,Titulado
+D1513,Seguridad,10,Titulado
+D1514,Redes,16,Doctorado
+D1515,Programacion,10,Maestria
+D1516,Bases de Datos,16,Maestria
+D1517,Programacion,10,Doctorado
+D1518,Programacion,10,Titulado
+D1519,Redes,14,Titulado
+D1520,Bases de Datos,12,Titulado
+D1521,Ingenieria de Software,10,Doctorado
+D1522,IA,12,Maestria
+D1523,Redes,14,Titulado
+D1524,Redes,16,Titulado
+D1525,IA,16,Bachiller
+D1526,Bases de Datos,12,Maestria
+D1527,Redes,16,Doctorado
+D1528,Programacion,10,Maestria
+D1529,IA,16,Doctorado
+D1530,Seguridad,14,Titulado
+D1531,Seguridad,16,Titulado
+D1532,Redes,16,Maestria
+D1533,IA,10,Maestria
+D1534,Programacion,10,Doctorado
+D1535,IA,10,Maestria
+D1536,Programacion,14,Bachiller
+D1537,Bases de Datos,12,Maestria
+D1538,Ingenieria de Software,14,Titulado
+D1539,Ingenieria de Software,14,Doctorado
+D1540,IA,12,Bachiller
+D1541,Programacion,10,Maestria
+D1542,Redes,16,Maestria
+D1543,IA,16,Bachiller
+D1544,Seguridad,16,Maestria
+D1545,Ingenieria de Software,16,Bachiller
+D1546,Redes,12,Maestria
+D1547,Redes,12,Titulado
+D1548,Programacion,16,Doctorado
+D1549,Redes,10,Maestria
+D1550,IA,16,Maestria
+D1551,Ingenieria de Software,16,Titulado
+D1552,Redes,14,Maestria
+D1553,Ingenieria de Software,16,Titulado
+D1554,Seguridad,16,Bachiller
+D1555,Seguridad,10,Bachiller
+D1556,Bases de Datos,12,Bachiller
+D1557,Redes,16,Doctorado
+D1558,Seguridad,10,Maestria
+D1559,IA,10,Titulado
+D1560,Redes,16,Titulado
+D1561,Bases de Datos,12,Bachiller
+D1562,Redes,16,Bachiller
+D1563,Bases de Datos,10,Bachiller
+D1564,IA,10,Titulado
+D1565,Redes,16,Bachiller
+D1566,Programacion,14,Doctorado
+D1567,Programacion,10,Titulado
+D1568,IA,10,Maestria
+D1569,Ingenieria de Software,10,Titulado
+D1570,Bases de Datos,10,Doctorado
+D1571,Ingenieria de Software,12,Maestria
+D1572,Redes,10,Maestria
+D1573,Bases de Datos,14,Doctorado
+D1574,IA,10,Bachiller
+D1575,Redes,16,Bachiller
+D1576,Seguridad,10,Bachiller
+D1577,Seguridad,16,Bachiller
+D1578,Seguridad,16,Maestria
+D1579,Seguridad,10,Doctorado
+D1580,Seguridad,16,Bachiller
+D1581,Redes,14,Bachiller
+D1582,IA,10,Maestria
+D1583,Ingenieria de Software,14,Doctorado
+D1584,IA,16,Doctorado
+D1585,Seguridad,12,Doctorado
+D1586,Seguridad,14,Titulado
+D1587,Bases de Datos,12,Bachiller
+D1588,Ingenieria de Software,14,Doctorado
+D1589,IA,10,Bachiller
+D1590,Redes,10,Titulado
+D1591,Programacion,12,Bachiller
+D1592,Programacion,12,Maestria
+D1593,Seguridad,16,Doctorado
+D1594,Bases de Datos,12,Bachiller
+D1595,Redes,14,Bachiller
+D1596,Ingenieria de Software,16,Titulado
+D1597,Seguridad,14,Doctorado
+D1598,IA,12,Bachiller
+D1599,Bases de Datos,12,Bachiller
+D1600,IA,16,Doctorado
+D1601,Redes,16,Bachiller
+D1602,Seguridad,10,Bachiller
+D1603,Seguridad,14,Titulado
+D1604,Bases de Datos,14,Maestria
+D1605,IA,10,Maestria
+D1606,IA,16,Bachiller
+D1607,IA,16,Bachiller
+D1608,Redes,10,Titulado
+D1609,Seguridad,10,Bachiller
+D1610,Ingenieria de Software,14,Titulado
+D1611,Bases de Datos,10,Maestria
+D1612,Ingenieria de Software,12,Titulado
+D1613,Seguridad,14,Titulado
+D1614,Seguridad,14,Doctorado
+D1615,Programacion,14,Bachiller
+D1616,Redes,16,Titulado
+D1617,Redes,10,Titulado
+D1618,IA,10,Maestria
+D1619,Bases de Datos,12,Bachiller
+D1620,Redes,14,Maestria
+D1621,IA,16,Bachiller
+D1622,IA,14,Doctorado
+D1623,Redes,16,Titulado
+D1624,IA,14,Maestria
+D1625,Bases de Datos,14,Doctorado
+D1626,Ingenieria de Software,14,Bachiller
+D1627,Programacion,14,Doctorado
+D1628,Programacion,10,Bachiller
+D1629,Redes,10,Bachiller
+D1630,Seguridad,16,Doctorado
+D1631,Ingenieria de Software,12,Maestria
+D1632,Redes,10,Doctorado
+D1633,Bases de Datos,16,Doctorado
+D1634,IA,16,Bachiller
+D1635,Redes,12,Doctorado
+D1636,Programacion,14,Doctorado
+D1637,Bases de Datos,16,Maestria
+D1638,Programacion,16,Bachiller
+D1639,Bases de Datos,10,Titulado
+D1640,Ingenieria de Software,10,Doctorado
+D1641,Seguridad,10,Titulado
+D1642,Ingenieria de Software,12,Bachiller
+D1643,Programacion,12,Maestria
+D1644,Ingenieria de Software,12,Titulado
+D1645,Bases de Datos,16,Bachiller
+D1646,Seguridad,16,Bachiller
+D1647,Seguridad,14,Doctorado
+D1648,Seguridad,14,Maestria
+D1649,Programacion,14,Maestria
+D1650,Programacion,10,Titulado
+D1651,IA,16,Titulado
+D1652,IA,14,Doctorado
+D1653,Redes,16,Titulado
+D1654,Seguridad,14,Maestria
+D1655,Ingenieria de Software,12,Titulado
+D1656,Ingenieria de Software,10,Bachiller
+D1657,Redes,16,Bachiller
+D1658,Redes,10,Bachiller
+D1659,Bases de Datos,14,Bachiller
+D1660,Programacion,12,Titulado
+D1661,Redes,12,Doctorado
+D1662,Redes,14,Bachiller
+D1663,Bases de Datos,14,Bachiller
+D1664,Redes,12,Bachiller
+D1665,Seguridad,16,Bachiller
+D1666,Ingenieria de Software,10,Maestria
+D1667,Seguridad,16,Maestria
+D1668,Seguridad,10,Bachiller
+D1669,Programacion,12,Bachiller
+D1670,IA,12,Maestria
+D1671,Redes,10,Titulado
+D1672,Ingenieria de Software,10,Bachiller
+D1673,IA,12,Maestria
+D1674,Redes,16,Doctorado
+D1675,Ingenieria de Software,12,Doctorado
+D1676,Programacion,10,Doctorado
+D1677,Bases de Datos,12,Doctorado
+D1678,Programacion,16,Maestria
+D1679,Programacion,12,Bachiller
+D1680,Programacion,10,Bachiller
+D1681,IA,10,Doctorado
+D1682,Redes,16,Maestria
+D1683,Seguridad,16,Doctorado
+D1684,IA,14,Bachiller
+D1685,Seguridad,12,Bachiller
+D1686,Bases de Datos,14,Bachiller
+D1687,Ingenieria de Software,14,Titulado
+D1688,Programacion,10,Titulado
+D1689,Ingenieria de Software,12,Doctorado
+D1690,Programacion,12,Doctorado
+D1691,Programacion,16,Maestria
+D1692,Redes,14,Maestria
+D1693,Redes,10,Titulado
+D1694,Redes,16,Maestria
+D1695,Seguridad,10,Maestria
+D1696,Ingenieria de Software,14,Doctorado
+D1697,Seguridad,16,Doctorado
+D1698,IA,16,Doctorado
+D1699,Bases de Datos,14,Titulado
+D1700,Bases de Datos,16,Maestria
+D1701,Ingenieria de Software,10,Titulado
+D1702,Programacion,14,Doctorado
+D1703,Programacion,12,Bachiller
+D1704,Bases de Datos,10,Bachiller
+D1705,Ingenieria de Software,14,Maestria
+D1706,Bases de Datos,10,Doctorado
+D1707,Bases de Datos,16,Maestria
+D1708,Ingenieria de Software,10,Titulado
+D1709,Seguridad,14,Maestria
+D1710,Redes,10,Titulado
+D1711,IA,14,Titulado
+D1712,Redes,12,Maestria
+D1713,Programacion,10,Doctorado
+D1714,Ingenieria de Software,16,Bachiller
+D1715,IA,14,Doctorado
+D1716,Bases de Datos,10,Maestria
+D1717,Bases de Datos,14,Bachiller
+D1718,Programacion,16,Doctorado
+D1719,Redes,14,Maestria
+D1720,Bases de Datos,16,Doctorado
+D1721,Bases de Datos,16,Doctorado
+D1722,Redes,16,Doctorado
+D1723,Seguridad,12,Bachiller
+D1724,Redes,14,Bachiller
+D1725,Seguridad,10,Doctorado
+D1726,Programacion,16,Doctorado
+D1727,Bases de Datos,16,Doctorado
+D1728,IA,10,Maestria
+D1729,Seguridad,14,Doctorado
+D1730,IA,10,Maestria
+D1731,Seguridad,12,Bachiller
+D1732,IA,10,Maestria
+D1733,Programacion,12,Bachiller
+D1734,Redes,16,Bachiller
+D1735,Ingenieria de Software,10,Maestria
+D1736,Seguridad,10,Maestria
+D1737,Redes,10,Titulado
+D1738,Seguridad,10,Doctorado
+D1739,Bases de Datos,14,Titulado
+D1740,Programacion,12,Titulado
+D1741,Programacion,12,Doctorado
+D1742,Ingenieria de Software,12,Titulado
+D1743,Redes,12,Titulado
+D1744,Seguridad,12,Maestria
+D1745,Redes,10,Doctorado
+D1746,IA,14,Bachiller
+D1747,IA,14,Titulado
+D1748,Ingenieria de Software,12,Maestria
+D1749,Seguridad,12,Doctorado
+D1750,Seguridad,10,Maestria
+D1751,Seguridad,12,Maestria
+D1752,Bases de Datos,10,Bachiller
+D1753,Bases de Datos,12,Maestria
+D1754,Ingenieria de Software,14,Bachiller
+D1755,Bases de Datos,14,Titulado
+D1756,Programacion,14,Doctorado
+D1757,Ingenieria de Software,16,Titulado
+D1758,Programacion,16,Titulado
+D1759,Redes,10,Doctorado
+D1760,Ingenieria de Software,12,Maestria
+D1761,Seguridad,12,Doctorado
+D1762,IA,12,Maestria
+D1763,Redes,14,Titulado
+D1764,Redes,14,Doctorado
+D1765,Redes,14,Titulado
+D1766,IA,10,Doctorado
+D1767,Redes,16,Maestria
+D1768,IA,10,Titulado
+D1769,Redes,10,Titulado
+D1770,Bases de Datos,12,Titulado
+D1771,Redes,14,Doctorado
+D1772,Seguridad,16,Doctorado
+D1773,Redes,10,Bachiller
+D1774,IA,12,Doctorado
+D1775,Ingenieria de Software,12,Doctorado
+D1776,Seguridad,12,Bachiller
+D1777,Redes,10,Doctorado
+D1778,Ingenieria de Software,12,Bachiller
+D1779,Seguridad,14,Doctorado
+D1780,Bases de Datos,10,Bachiller
+D1781,Ingenieria de Software,12,Maestria
+D1782,Programacion,10,Doctorado
+D1783,Redes,12,Doctorado
+D1784,Ingenieria de Software,16,Titulado
+D1785,IA,14,Titulado
+D1786,IA,14,Titulado
+D1787,Ingenieria de Software,10,Doctorado
+D1788,Redes,12,Maestria
+D1789,Bases de Datos,16,Maestria
+D1790,IA,16,Maestria
+D1791,Programacion,12,Bachiller
+D1792,Programacion,10,Maestria
+D1793,IA,14,Maestria
+D1794,IA,14,Titulado
+D1795,Programacion,12,Doctorado
+D1796,Redes,12,Bachiller
+D1797,Redes,12,Bachiller
+D1798,Programacion,10,Maestria
+D1799,Bases de Datos,14,Maestria
+D1800,Seguridad,14,Titulado
+D1801,Seguridad,14,Bachiller
+D1802,IA,16,Bachiller
+D1803,Bases de Datos,14,Maestria
+D1804,Bases de Datos,14,Doctorado
+D1805,Ingenieria de Software,16,Bachiller
+D1806,Seguridad,10,Bachiller
+D1807,Programacion,10,Maestria
+D1808,Redes,10,Maestria
+D1809,Ingenieria de Software,14,Bachiller
+D1810,Redes,16,Maestria
+D1811,IA,14,Doctorado
+D1812,Redes,12,Titulado
+D1813,Programacion,12,Maestria
+D1814,Seguridad,10,Bachiller
+D1815,Redes,10,Doctorado
+D1816,Bases de Datos,16,Maestria
+D1817,Ingenieria de Software,12,Maestria
+D1818,IA,12,Maestria
+D1819,Ingenieria de Software,12,Titulado
+D1820,IA,16,Titulado
+D1821,Redes,14,Titulado
+D1822,Redes,14,Bachiller
+D1823,Seguridad,14,Titulado
+D1824,Programacion,10,Bachiller
+D1825,Seguridad,12,Bachiller
+D1826,Redes,12,Maestria
+D1827,Redes,10,Titulado
+D1828,Seguridad,16,Doctorado
+D1829,Programacion,16,Bachiller
+D1830,IA,14,Doctorado
+D1831,Bases de Datos,16,Titulado
+D1832,Ingenieria de Software,16,Maestria
+D1833,Bases de Datos,16,Titulado
+D1834,Seguridad,16,Maestria
+D1835,Programacion,12,Bachiller
+D1836,Redes,12,Titulado
+D1837,Seguridad,14,Maestria
+D1838,Redes,10,Bachiller
+D1839,Seguridad,14,Bachiller
+D1840,Seguridad,10,Maestria
+D1841,Programacion,14,Titulado
+D1842,Redes,14,Doctorado
+D1843,Redes,14,Bachiller
+D1844,Seguridad,12,Titulado
+D1845,Programacion,14,Maestria
+D1846,Programacion,12,Titulado
+D1847,Programacion,10,Doctorado
+D1848,IA,12,Doctorado
+D1849,Redes,16,Doctorado
+D1850,Seguridad,16,Maestria
+D1851,Seguridad,10,Maestria
+D1852,Seguridad,10,Maestria
+D1853,Redes,10,Maestria
+D1854,IA,12,Doctorado
+D1855,Ingenieria de Software,14,Bachiller
+D1856,Bases de Datos,14,Maestria
+D1857,Redes,14,Titulado
+D1858,Ingenieria de Software,10,Maestria
+D1859,Programacion,14,Maestria
+D1860,IA,12,Doctorado
+D1861,Redes,10,Maestria
+D1862,Programacion,14,Maestria
+D1863,Redes,16,Titulado
+D1864,Redes,16,Titulado
+D1865,Bases de Datos,12,Doctorado
+D1866,Bases de Datos,14,Bachiller
+D1867,Seguridad,12,Maestria
+D1868,Ingenieria de Software,16,Maestria
+D1869,Ingenieria de Software,14,Doctorado
+D1870,Redes,10,Doctorado
+D1871,IA,12,Doctorado
+D1872,IA,12,Titulado
+D1873,Programacion,10,Titulado
+D1874,Ingenieria de Software,14,Maestria
+D1875,Seguridad,14,Bachiller
+D1876,Programacion,16,Maestria
+D1877,IA,14,Doctorado
+D1878,Ingenieria de Software,12,Bachiller
+D1879,Ingenieria de Software,10,Bachiller
+D1880,Seguridad,14,Titulado
+D1881,IA,16,Bachiller
+D1882,Programacion,12,Titulado
+D1883,Ingenieria de Software,12,Bachiller
+D1884,IA,14,Doctorado
+D1885,IA,16,Titulado
+D1886,Programacion,12,Bachiller
+D1887,Redes,16,Bachiller
+D1888,Bases de Datos,14,Maestria
+D1889,Seguridad,16,Maestria
+D1890,Programacion,10,Bachiller
+D1891,IA,12,Bachiller
+D1892,Programacion,16,Bachiller
+D1893,Programacion,12,Titulado
+D1894,Seguridad,12,Bachiller
+D1895,IA,12,Bachiller
+D1896,Programacion,12,Bachiller
+D1897,Programacion,12,Maestria
+D1898,Bases de Datos,16,Titulado
+D1899,Programacion,16,Maestria
+D1900,Programacion,10,Doctorado
+D1901,Ingenieria de Software,12,Titulado
+D1902,Seguridad,16,Maestria
+D1903,Bases de Datos,16,Doctorado
+D1904,Redes,16,Titulado
+D1905,Bases de Datos,10,Doctorado
+D1906,Programacion,14,Doctorado
+D1907,Bases de Datos,12,Titulado
+D1908,Redes,14,Maestria
+D1909,Bases de Datos,12,Maestria
+D1910,Ingenieria de Software,14,Maestria
+D1911,Programacion,10,Bachiller
+D1912,Ingenieria de Software,12,Doctorado
+D1913,Programacion,16,Doctorado
+D1914,Bases de Datos,14,Doctorado
+D1915,Seguridad,14,Titulado
+D1916,Programacion,12,Titulado
+D1917,IA,10,Doctorado
+D1918,Ingenieria de Software,16,Bachiller
+D1919,Redes,16,Bachiller
+D1920,Redes,14,Titulado
+D1921,IA,14,Doctorado
+D1922,IA,10,Maestria
+D1923,Seguridad,12,Doctorado
+D1924,Programacion,12,Doctorado
+D1925,Bases de Datos,14,Titulado
+D1926,Programacion,14,Bachiller
+D1927,Redes,14,Bachiller
+D1928,Seguridad,14,Maestria
+D1929,Ingenieria de Software,16,Doctorado
+D1930,Ingenieria de Software,14,Titulado
+D1931,IA,12,Maestria
+D1932,IA,10,Titulado
+D1933,Programacion,16,Maestria
+D1934,Ingenieria de Software,12,Bachiller
+D1935,Bases de Datos,14,Bachiller
+D1936,Seguridad,10,Titulado
+D1937,IA,14,Doctorado
+D1938,Seguridad,10,Maestria
+D1939,Bases de Datos,14,Bachiller
+D1940,Programacion,10,Doctorado
+D1941,Seguridad,16,Maestria
+D1942,IA,14,Titulado
+D1943,Programacion,14,Doctorado
+D1944,Programacion,12,Titulado
+D1945,Redes,12,Bachiller
+D1946,Bases de Datos,14,Doctorado
+D1947,Seguridad,10,Titulado
+D1948,Ingenieria de Software,12,Maestria
+D1949,Seguridad,14,Bachiller
+D1950,Ingenieria de Software,16,Doctorado
+D1951,Seguridad,16,Maestria
+D1952,Programacion,12,Doctorado
+D1953,Programacion,14,Maestria
+D1954,Programacion,10,Doctorado
+D1955,Redes,10,Maestria
+D1956,Programacion,16,Maestria
+D1957,Redes,14,Maestria
+D1958,IA,10,Titulado
+D1959,IA,10,Titulado
+D1960,Bases de Datos,16,Doctorado
+D1961,Redes,10,Doctorado
+D1962,Bases de Datos,14,Maestria
+D1963,IA,10,Titulado
+D1964,IA,14,Maestria
+D1965,Bases de Datos,14,Doctorado
+D1966,Programacion,14,Doctorado
+D1967,Bases de Datos,14,Maestria
+D1968,Ingenieria de Software,16,Bachiller
+D1969,Programacion,12,Titulado
+D1970,Redes,12,Maestria
+D1971,IA,14,Maestria
+D1972,Redes,12,Bachiller
+D1973,Programacion,10,Titulado
+D1974,Seguridad,16,Maestria
+D1975,Programacion,12,Titulado
+D1976,Seguridad,16,Maestria
+D1977,IA,14,Titulado
+D1978,Ingenieria de Software,10,Bachiller
+D1979,Bases de Datos,12,Doctorado
+D1980,Seguridad,16,Titulado
+D1981,Ingenieria de Software,14,Titulado
+D1982,Bases de Datos,12,Doctorado
+D1983,Seguridad,16,Maestria
+D1984,Bases de Datos,16,Titulado
+D1985,Bases de Datos,12,Doctorado
+D1986,Ingenieria de Software,16,Titulado
+D1987,Seguridad,12,Titulado
+D1988,IA,10,Maestria
+D1989,Seguridad,16,Doctorado
+D1990,Bases de Datos,14,Titulado
+D1991,IA,14,Titulado
+D1992,IA,12,Doctorado
+D1993,IA,10,Maestria
+D1994,Ingenieria de Software,12,Titulado
+D1995,Ingenieria de Software,14,Doctorado
+D1996,IA,10,Doctorado
+D1997,Ingenieria de Software,14,Titulado
+D1998,Ingenieria de Software,16,Maestria
+D1999,Seguridad,10,Doctorado
+D2000,Ingenieria de Software,16,Maestria
